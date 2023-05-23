@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QEngr24ZmRtyh4eo_muC2g" name=",_9om3kPmUEe2-LZslZI9vgg" guid="-QEngr24ZmRtyh4eo_muC2g" authors="Julian Callejas, Kevin Sanchez, Andres Garcia" changeDate="2023-05-23T13:11:07.914-0500" changeDescription="Documentado y relacionado" version="Version final">
+  <sections xmi:id="_PaHxYPmVEe2-LZslZI9vgg" name="Observar el funcionamiento" guid="_PaHxYPmVEe2-LZslZI9vgg"/>
+  <sections xmi:id="_SePpsPmVEe2-LZslZI9vgg" name="Tomar las decisiones sobre la informacion obtenida" guid="_SePpsPmVEe2-LZslZI9vgg"/>
+  <purpose>Cuando se obtenga la informacion del servidor se pueden tomar decisiones en pro a la velocidad de este o a la seguridad</purpose>
+</org.eclipse.epf.uma:TaskDescription>

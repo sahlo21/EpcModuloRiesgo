@@ -15,6 +15,7 @@
     <resourceDescriptors xmi:id="_wgpVEfmPEe2VUpbnunlhWA" id="-Jt3YhFdthp_5a5t-Lqt3WA" uri="workproducts/resultados_integracion_continua.xmi"/>
     <resourceDescriptors xmi:id="_LEoKEPmQEe2VUpbnunlhWA" id="-jYsTaRadqL-L6lSwuLaInQ" uri="tasks/crear_servidor_de_integracion_continua.xmi"/>
     <resourceDescriptors xmi:id="_lnXo8PmQEe2VUpbnunlhWA" id="-XQwC8WKpXphyTlmiShJ8dQ" uri="tasks/realizar_testeo_automatico_en_el_servidor.xmi"/>
+    <resourceDescriptors xmi:id="_LXtr4PmVEe2-LZslZI9vgg" id="-QEngr24ZmRtyh4eo_muC2g" uri="tasks/obtener_los_resultados.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_eC0PcPjtEe2wNP29IlE1iA" name="implementacion" guid="_eC0PcPjtEe2wNP29IlE1iA" presentationName="implementacion" briefDescription="En esta disciplina se tiene como objetivo la eleccion de las herramientas de trabajo, como lo son el entorno de desarrollo y lenguaje, ademas de esto, se busca implenetar lo diseñado en la disciplina anterior" authors="Julian Callejas, Andres Garcia, Kevin Sanchez">
     <methodElementProperty xmi:id="_fPmLoPjtEe2wNP29IlE1iA" name="me_edited" value="true"/>
@@ -92,9 +93,13 @@
             <methodElementProperty xmi:id="_E534APmQEe2VUpbnunlhWA" name="me_edited" value="true"/>
             <presentation xmi:id="-jYsTaRadqL-L6lSwuLaInQ" href="uma://-jYsTaRadqL-L6lSwuLaInQ#-jYsTaRadqL-L6lSwuLaInQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VdFLoPmQEe2VUpbnunlhWA" name="realizar_testeo_automatico_en_el_servidor" guid="_VdFLoPmQEe2VUpbnunlhWA" presentationName="Realizar testeo automatico en el servidor" briefDescription="Se encarga de probar la eficiencia del servidor">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VdFLoPmQEe2VUpbnunlhWA" name="realizar_testeo_automatico_en_el_servidor" guid="_VdFLoPmQEe2VUpbnunlhWA" presentationName="Realizar testeo automatico en el servidor" briefDescription="Se encarga de probar la eficiencia del servidor" performedBy="_muNxsPmPEe2VUpbnunlhWA _muOYwPmPEe2VUpbnunlhWA" mandatoryInput="_nVkFkPmPEe2VUpbnunlhWA" output="_nVkFkPmPEe2VUpbnunlhWA">
             <methodElementProperty xmi:id="_fONugPmQEe2VUpbnunlhWA" name="me_edited" value="true"/>
             <presentation xmi:id="-XQwC8WKpXphyTlmiShJ8dQ" href="uma://-XQwC8WKpXphyTlmiShJ8dQ#-XQwC8WKpXphyTlmiShJ8dQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9om3kPmUEe2-LZslZI9vgg" name="obtener_los_resultados" guid="_9om3kPmUEe2-LZslZI9vgg" presentationName="Obtener los resultados" briefDescription="Se obtienen los resultados dados por el servidor luego de tener las pruebas realizadas" performedBy="_muNxsPmPEe2VUpbnunlhWA _muOYwPmPEe2VUpbnunlhWA" mandatoryInput="_nVkFkPmPEe2VUpbnunlhWA" output="_nVkFkPmPEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_LXr2sPmVEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-QEngr24ZmRtyh4eo_muC2g" href="uma://-QEngr24ZmRtyh4eo_muC2g#-QEngr24ZmRtyh4eo_muC2g"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4-onUPmKEe2VUpbnunlhWA" name="compilacion_del_codigo" guid="_4-onUPmKEe2VUpbnunlhWA" presentationName="Compilacion del codigo" briefDescription="En este paso se busca crear el ejecutable del codigo, es decir, toda la aplicacion integrada se vuelve un ejecutable.">

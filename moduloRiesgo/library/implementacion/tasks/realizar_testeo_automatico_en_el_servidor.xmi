@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XQwC8WKpXphyTlmiShJ8dQ" name=",_VdFLoPmQEe2VUpbnunlhWA" guid="-XQwC8WKpXphyTlmiShJ8dQ" changeDate="2023-05-23T12:41:01.018-0500"/>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XQwC8WKpXphyTlmiShJ8dQ" name=",_VdFLoPmQEe2VUpbnunlhWA" guid="-XQwC8WKpXphyTlmiShJ8dQ" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T12:41:01.018-0500" changeDescription="Documentado y relacionado" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    El relizar el testeo automatico en el servidor se encarga de revisar la manera en la cual se comporta el servidor y de&#xD;
+    esta manera observar el funcionamiento.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_2JqZwPmUEe2-LZslZI9vgg" name="Revisar el servidor" guid="_2JqZwPmUEe2-LZslZI9vgg"/>
+  <sections xmi:id="_4UX90PmUEe2-LZslZI9vgg" name="Revisar el resultado del testo" guid="_4UX90PmUEe2-LZslZI9vgg"/>
+  <purpose>El proposito de realizar un testeo al servidor es saber la capacidad que tiene este en base&amp;nbsp;a la capacidad de recibir&#xD;
+procesos.</purpose>
+</org.eclipse.epf.uma:TaskDescription>
