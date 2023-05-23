@@ -8,5 +8,5 @@
   <sections xmi:id="_UFxsYPmOEe2VUpbnunlhWA" name="Diseñar la base de datos" guid="_UFxsYPmOEe2VUpbnunlhWA"/>
   <sections xmi:id="_U5u44PmOEe2VUpbnunlhWA" name="Integrar la base de datos" guid="_U5u44PmOEe2VUpbnunlhWA"/>
   <sections xmi:id="_bNEfMPmOEe2VUpbnunlhWA" name="Poblar la base de datos" guid="_bNEfMPmOEe2VUpbnunlhWA"/>
-  <purpose>El proposito principal es tener una base de datos funcional e integrada</purpose>
+  <purpose>El proposito principal es tener una base de datos funcional e integrada.</purpose>
 </org.eclipse.epf.uma:TaskDescription>
