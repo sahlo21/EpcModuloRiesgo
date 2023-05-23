@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-upP4mSQ_1rUv_5iG5d5Btg" name="new_role,_d-um8PlsEe2VUpbnunlhWA" guid="-upP4mSQ_1rUv_5iG5d5Btg" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T08:22:42.480-0500" changeDescription="Version con todos los datos del rol y relaciones." version="Version final">
+  <mainDescription>El desarrollador backend es el rol de equipo que se encarga de realizar la programacion de la aplicacion web o local, este&#xD;
+se realiza a partir de lenguaje de programacion y entornos que el desarrollador debe saber manejar con facilidad.</mainDescription>
+  <skills>Las habilidades de un desarrollador se basa en saber resolver problemas y tener la capacidad de seguir instrucciones.</skills>
+  <assignmentApproaches>El enfoque del desarrollador backend es en base a la codificacion y creacion de codigo, sin embargo, tambien puede&#xD;
+desarrollar procesos de base de datos.</assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

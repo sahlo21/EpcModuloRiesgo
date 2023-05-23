@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_8aZ48PjtEe2wNP29IlE1iA" guid="_8aZ48PjtEe2wNP29IlE1iA"/>
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_8aZ48PjtEe2wNP29IlE1iA" guid="_8aZ48PjtEe2wNP29IlE1iA">
+    <resourceDescriptors xmi:id="_8gb_gPmdEe2-LZslZI9vgg" id="-IoMlJCedD3-BWt9JpQo5Ag" uri="roles/gerente_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_-dydAPmdEe2-LZslZI9vgg" id="-7xBIqHjmuv6TMdn1mZL-3w" uri="roles/desarrollador_backend.xmi"/>
+    <resourceDescriptors xmi:id="_-d0SMPmdEe2-LZslZI9vgg" id="-9p9OOue6YZ8_JqEV5UCkcA" uri="roles/desarrollador_frontend.xmi"/>
+    <resourceDescriptors xmi:id="_AKhEkPmeEe2-LZslZI9vgg" id="-or42il_iuSuaPRh5kvdThg" uri="roles/gerente_del_proyecto%202.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_8aYq0PjtEe2wNP29IlE1iA" name="despliegue" guid="_8aYq0PjtEe2wNP29IlE1iA" presentationName="despliegue" briefDescription="En esta disciplina se tiene el objetivo de realizar el funcionamiento de la aplicacion, es decir, se dejara que los usuario puedan usarla, ademas de esto se realizan pruebas a los usuarios para tener un feedback y poder desarrollar actualizaciones de manera optima" authors="Julian Callejas, Andres Garcia, Kevin Sanchez">
     <methodElementProperty xmi:id="_9ix2QPjtEe2wNP29IlE1iA" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8aYq0fjtEe2wNP29IlE1iA" name="Content" guid="_8aYq0fjtEe2wNP29IlE1iA">
@@ -17,7 +22,45 @@
           </childPackages>
         </childPackages>
       </childPackages>
-      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8aYq3PjtEe2wNP29IlE1iA" name="CoreContent" guid="_8aYq3PjtEe2wNP29IlE1iA"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8aYq3PjtEe2wNP29IlE1iA" name="CoreContent" guid="_8aYq3PjtEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m5gasPmaEe2-LZslZI9vgg" name="despliegue" guid="_m5gasPmaEe2-LZslZI9vgg" presentationName="Despliegue" briefDescription="El despligue es la actividad donde el servicio o aplicacion se entrega a produccion, es decir, empieza a ser usada por los usuarios.">
+          <methodElementProperty xmi:id="_m5hBwPmaEe2-LZslZI9vgg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_ovivQPmaEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_8fvb8PmdEe2-LZslZI9vgg" name="gerente_del_proyecto" guid="_8fvb8PmdEe2-LZslZI9vgg" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores" responsibleFor="_nhC_APmeEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_8gaKUPmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-IoMlJCedD3-BWt9JpQo5Ag" href="uma://-IoMlJCedD3-BWt9JpQo5Ag#-IoMlJCedD3-BWt9JpQo5Ag"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nhC_APmeEe2-LZslZI9vgg" name="planeacion_del_despliegue" guid="_nhC_APmeEe2-LZslZI9vgg" presentationName="Planeacion del despliegue" briefDescription="Planeacion del despliegue es el documento donde se tiene claro que partes del documento de despliegue se van a realizar.">
+            <methodElementProperty xmi:id="_wYEDAPmeEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pJVvUPmaEe2-LZslZI9vgg" name="mantenimiento" guid="_pJVvUPmaEe2-LZslZI9vgg" presentationName="Mantenimiento" briefDescription="La actividad de mantenimiento se basa en la realizacion de mejoras y arreglos al codigo de la aplicacion.">
+          <methodElementProperty xmi:id="_pJVvUfmaEe2-LZslZI9vgg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_ruxggPmaEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_-dErUPmdEe2-LZslZI9vgg" name="desarrollador_backend" guid="_-dErUPmdEe2-LZslZI9vgg" presentationName="Desarrollador BackEnd" briefDescription="Es el encargado de desarrollar y conectar toda la actividad de una web o aplicación con el servidor y sus bases de datos" responsibleFor="_H4om0PmeEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_-dwn0PmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-7xBIqHjmuv6TMdn1mZL-3w" href="uma://-7xBIqHjmuv6TMdn1mZL-3w#-7xBIqHjmuv6TMdn1mZL-3w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_-dErUfmdEe2-LZslZI9vgg" name="desarrollador_frontend" guid="_-dErUfmdEe2-LZslZI9vgg" presentationName="Desarrollador FrontEnd" briefDescription="El desarrollador frontend es el encargado de realizar todo lo relacionado a la interfaz grafica del proyecto" responsibleFor="_H4om0PmeEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_-dwn0fmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-9p9OOue6YZ8_JqEV5UCkcA" href="uma://-9p9OOue6YZ8_JqEV5UCkcA#-9p9OOue6YZ8_JqEV5UCkcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_H4om0PmeEe2-LZslZI9vgg" name="codigo_corregido" guid="_H4om0PmeEe2-LZslZI9vgg" presentationName="Codigo corregido" briefDescription="Una vez se realizan las actualizaciones se tienen que realizar mejoras, es decir, en este punto de las actividades se deben realizar mejoras y cambios a medida que pasa el tiempo y todo cambia">
+            <methodElementProperty xmi:id="_RM4ZYPmeEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sDWCUPmaEe2-LZslZI9vgg" name="implementar_ciclo" guid="_sDWCUPmaEe2-LZslZI9vgg" presentationName="Implementar ciclo" briefDescription="Luego de realizar todos los procesos se implementa un ciclo, es decir, se empieza el proceso nuevamente">
+          <methodElementProperty xmi:id="_sDWCUfmaEe2-LZslZI9vgg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_tsfKYPmaEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_AJ1IEPmeEe2-LZslZI9vgg" name="gerente_del_proyecto" guid="_AJ1IEPmeEe2-LZslZI9vgg" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores" responsibleFor="_TKCpoPmeEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_AKfPYPmeEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-or42il_iuSuaPRh5kvdThg" href="uma://-or42il_iuSuaPRh5kvdThg#-or42il_iuSuaPRh5kvdThg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_TKCpoPmeEe2-LZslZI9vgg" name="documento_informe_del_proyecto" guid="_TKCpoPmeEe2-LZslZI9vgg" presentationName="Documento informe del proyecto" briefDescription="En este documento se tiene la base de los terminos del ciclo que se va a realizar, es decir, se ponen los terminos del mantenimiento y mejoras que se van a realizar.">
+            <methodElementProperty xmi:id="_TKtYAPmeEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8aYq3fjtEe2wNP29IlE1iA" name="CapabilityPatterns" guid="_8aYq3fjtEe2wNP29IlE1iA"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8aYq3vjtEe2wNP29IlE1iA" name="DeliveryProcesses" guid="_8aYq3vjtEe2wNP29IlE1iA"/>

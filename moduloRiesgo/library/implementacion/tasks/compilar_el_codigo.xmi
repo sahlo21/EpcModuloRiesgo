@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UgUyEqxONjd-Jr7b1lDCVA" name=",_1RPSEPmWEe2-LZslZI9vgg" guid="-UgUyEqxONjd-Jr7b1lDCVA">
+  <sections xmi:id="_jZQucPmXEe2-LZslZI9vgg" name="Obtener la informacion" guid="_jZQucPmXEe2-LZslZI9vgg"/>
+  <sections xmi:id="_n3wTAPmXEe2-LZslZI9vgg" name="Ejcutar y probar el punto exe" guid="_n3wTAPmXEe2-LZslZI9vgg"/>
+</org.eclipse.epf.uma:TaskDescription>

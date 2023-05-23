@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7ZnMTLU68gHUQ6J1UsQaqw" name="new_role,_ThX2sPj9Ee2wNP29IlE1iA" guid="-7ZnMTLU68gHUQ6J1UsQaqw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T19:05:38.643-0500" changeDescription="Version con toda la informacion del arquitecto de software." version="Version final">
+  <mainDescription>El arquitecto del proyecto es el rol encargado de realizar la base del proyecto de software, es decir, se encarga de&#xD;
+realizar toda la documentacion/arquitectura del proyecto a realizar, ademas de esto, se encarga de realizar los requisitos&#xD;
+los cuales son un de los pilares fundamentales del proyecto.</mainDescription>
+  <keyConsiderations>El arquitecto esta en constante comunicacion con el equipo de desarrolladores con el fin de evitar inconvenientes.</keyConsiderations>
+  <skills>&lt;p>&#xD;
+    El arquitecto de software debe tener una comunicacion acertiva con todo el equipo, ademas de una capacidad de analisis&#xD;
+    bastante desarrollada con el fin de obtener la informacion de la mejor manera.&#xD;
+&lt;/p></skills>
+  <assignmentApproaches>El arquitecto de software se enfoca en la creacion y desarrollo de la documentacion del software, sin embargo tambien puede&#xD;
+elegir las tecnologias a usar en el proyecto.</assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

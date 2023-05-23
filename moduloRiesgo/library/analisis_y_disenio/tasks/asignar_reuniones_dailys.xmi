@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-64ZbHnQFjtODiqC3aDlYbg" name=",_gMciEPl0Ee2VUpbnunlhWA" guid="-64ZbHnQFjtODiqC3aDlYbg" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T09:19:44.797-0500" changeDescription="Documentacion y relaciones de las tareas completas y funcionales." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    Las reuniones diarias o dailys se realizan con el fin de mantener una comunicacion acertiva con el equipo de trabajo y&#xD;
+    los usuarios interesados en el proyecto.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_k4UJkfmbEe2-LZslZI9vgg" name="Identificar un horario" guid="_k4UJkfmbEe2-LZslZI9vgg"/>
+  <sections xmi:id="_k4UJkvmbEe2-LZslZI9vgg" name="Asignar las reuniones" guid="_k4UJkvmbEe2-LZslZI9vgg"/>
+  <purpose>El proposito de esta tarea es asignar un horario de comunicacion con los stakeholders o usuarios de la aplicacion.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

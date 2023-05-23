@@ -18,24 +18,75 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsHb5fjvEe2wNP29IlE1iA" name="Hidden" guid="_NsHb5fjvEe2wNP29IlE1iA">
             <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NsHb5vjvEe2wNP29IlE1iA" name="Custom Categories" guid="_NsHb5vjvEe2wNP29IlE1iA" categorizedElements="_HXhuAPkTEe2wNP29IlE1iA"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_HXhuAPkTEe2wNP29IlE1iA" name="vista_de_procesos" guid="_HXhuAPkTEe2wNP29IlE1iA" presentationName="vista de procesos" categorizedElements="_V2SdoPkTEe2wNP29IlE1iA _BwNY0PkWEe2wNP29IlE1iA _DfxR8PkWEe2wNP29IlE1iA _GfZEwPkWEe2wNP29IlE1iA">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_HXhuAPkTEe2wNP29IlE1iA" name="vista_de_procesos" guid="_HXhuAPkTEe2wNP29IlE1iA" presentationName="vista de procesos" categorizedElements="_V2SdoPkTEe2wNP29IlE1iA _BwNY0PkWEe2wNP29IlE1iA">
             <methodElementProperty xmi:id="_VffHMPkTEe2wNP29IlE1iA" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_V2SdoPkTEe2wNP29IlE1iA" name="introduccion" guid="_V2SdoPkTEe2wNP29IlE1iA" presentationName="introduccion" briefDescription="Introduccion del proyecto y la pagina web" categorizedElements="_ZaKssPkWEe2wNP29IlE1iA">
             <methodElementProperty xmi:id="_CEKhgPkUEe2wNP29IlE1iA" name="me_edited" value="true"/>
             <presentation xmi:id="-ox5wBi3WpD7VAZVjl3I3PA" href="uma://-ox5wBi3WpD7VAZVjl3I3PA#-ox5wBi3WpD7VAZVjl3I3PA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_BwNY0PkWEe2wNP29IlE1iA" name="roles" guid="_BwNY0PkWEe2wNP29IlE1iA" presentationName="Roles">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_BwNY0PkWEe2wNP29IlE1iA" name="roles" guid="_BwNY0PkWEe2wNP29IlE1iA" presentationName="Roles" categorizedElements="_LCRb0PmfEe2-LZslZI9vgg _RjXxUPmfEe2-LZslZI9vgg _Xgw80PmfEe2-LZslZI9vgg _dwOIsPmfEe2-LZslZI9vgg _jKmGsPmfEe2-LZslZI9vgg _oy4k4PmfEe2-LZslZI9vgg">
             <methodElementProperty xmi:id="_Co-z4PkWEe2wNP29IlE1iA" name="me_edited" value="true"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_srE5UPjtEe2wNP29IlE1iA#_RbAy4PkYEe2wNP29IlE1iA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_LCRb0PmfEe2-LZslZI9vgg" name="despliegue" guid="_LCRb0PmfEe2-LZslZI9vgg" presentationName="Despliegue">
+            <methodElementProperty xmi:id="_McO4YPmfEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_8aYq0PjtEe2wNP29IlE1iA#_8fvb8PmdEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_8aYq0PjtEe2wNP29IlE1iA#_AJ1IEPmeEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_8aYq0PjtEe2wNP29IlE1iA#_-dErUPmdEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_8aYq0PjtEe2wNP29IlE1iA#_-dErUfmdEe2-LZslZI9vgg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_RjXxUPmfEe2-LZslZI9vgg" name="modelado_de_negocio" guid="_RjXxUPmfEe2-LZslZI9vgg" presentationName="Modelado de negocio">
+            <methodElementProperty xmi:id="_WfE2UPmfEe2-LZslZI9vgg" name="me_edited" value="true"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_J-WGcPjrEe2wNP29IlE1iA#_6Spa4PjwEe2wNP29IlE1iA"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_J-WGcPjrEe2wNP29IlE1iA#_ThX2sPj9Ee2wNP29IlE1iA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_J-WGcPjrEe2wNP29IlE1iA#_dXTdMPkBEe2wNP29IlE1iA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_J-WGcPjrEe2wNP29IlE1iA#_c4T0EPkBEe2wNP29IlE1iA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_J-WGcPjrEe2wNP29IlE1iA#_rsVFMPkFEe2wNP29IlE1iA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_J-WGcPjrEe2wNP29IlE1iA#__T4b8Pj3Ee2wNP29IlE1iA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_J-WGcPjrEe2wNP29IlE1iA#_G9khcPkJEe2wNP29IlE1iA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_J-WGcPjrEe2wNP29IlE1iA#_G9khcfkJEe2wNP29IlE1iA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_DfxR8PkWEe2wNP29IlE1iA" name="tareas" guid="_DfxR8PkWEe2wNP29IlE1iA" presentationName="Tareas">
-            <methodElementProperty xmi:id="_EgRssPkWEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Xgw80PmfEe2-LZslZI9vgg" name="requisitos" guid="_Xgw80PmfEe2-LZslZI9vgg" presentationName="Requisitos">
+            <methodElementProperty xmi:id="_cE_V8PmfEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_D-MFYPjsEe2wNP29IlE1iA#_HSY4QPl0Ee2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_D-MFYPjsEe2wNP29IlE1iA#_Hz-bAPl3Ee2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_D-MFYPjsEe2wNP29IlE1iA#_GP6nQPl3Ee2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_D-MFYPjsEe2wNP29IlE1iA#_vq8LMPmGEe2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_D-MFYPjsEe2wNP29IlE1iA#_xDB08PmFEe2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_D-MFYPjsEe2wNP29IlE1iA#_lSVYoPmGEe2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_D-MFYPjsEe2wNP29IlE1iA#_PhOVYPmJEe2VUpbnunlhWA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_GfZEwPkWEe2wNP29IlE1iA" name="artefactos" guid="_GfZEwPkWEe2wNP29IlE1iA" presentationName="Artefactos">
-            <methodElementProperty xmi:id="_HT0yYPkWEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_dwOIsPmfEe2-LZslZI9vgg" name="analisis_y_diseo" guid="_dwOIsPmfEe2-LZslZI9vgg" presentationName="Analisis y diseño">
+            <methodElementProperty xmi:id="_fVQM0PmfEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_jBQU0PjsEe2wNP29IlE1iA#_fj6l0PmdEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_jBQU0PjsEe2wNP29IlE1iA#_fj7M4PmdEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_jBQU0PjsEe2wNP29IlE1iA#_Tige4PmcEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_jBQU0PjsEe2wNP29IlE1iA#_s4wx8PmbEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_jBQU0PjsEe2wNP29IlE1iA#_n6ycEPmbEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_jBQU0PjsEe2wNP29IlE1iA#_n6ycEfmbEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_jBQU0PjsEe2wNP29IlE1iA#_l0p2APmbEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_jBQU0PjsEe2wNP29IlE1iA#_pkTXkPmbEe2-LZslZI9vgg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jKmGsPmfEe2-LZslZI9vgg" name="implementacion" guid="_jKmGsPmfEe2-LZslZI9vgg" presentationName="Implementacion">
+            <methodElementProperty xmi:id="_k82ugPmfEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_eC0PcPjtEe2wNP29IlE1iA#_PxcPwPmWEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_eC0PcPjtEe2wNP29IlE1iA#_PxcPwfmWEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_eC0PcPjtEe2wNP29IlE1iA#_UMHFQPmLEe2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_eC0PcPjtEe2wNP29IlE1iA#_UyJKgPmLEe2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_eC0PcPjtEe2wNP29IlE1iA#_muNxsPmPEe2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_eC0PcPjtEe2wNP29IlE1iA#_muOYwPmPEe2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_eC0PcPjtEe2wNP29IlE1iA#_GzDtkPmYEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_eC0PcPjtEe2wNP29IlE1iA#_GzDtkfmYEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_eC0PcPjtEe2wNP29IlE1iA#_11lN4PmZEe2-LZslZI9vgg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_eC0PcPjtEe2wNP29IlE1iA#_11lN4fmZEe2-LZslZI9vgg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_oy4k4PmfEe2-LZslZI9vgg" name="test" guid="_oy4k4PmfEe2-LZslZI9vgg" presentationName="Test">
+            <methodElementProperty xmi:id="_p7cIYPmfEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_srE5UPjtEe2wNP29IlE1iA#_RbAy4PkYEe2wNP29IlE1iA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_srE5UPjtEe2wNP29IlE1iA#_gROkIPljEe2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_srE5UPjtEe2wNP29IlE1iA#_yMZeUPllEe2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_srE5UPjtEe2wNP29IlE1iA#_d-um8PlsEe2VUpbnunlhWA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_srE5UPjtEe2wNP29IlE1iA#_siF_MPlrEe2VUpbnunlhWA"/>
           </contentElements>
         </childPackages>
       </childPackages>

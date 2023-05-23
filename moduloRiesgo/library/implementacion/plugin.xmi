@@ -16,6 +16,17 @@
     <resourceDescriptors xmi:id="_LEoKEPmQEe2VUpbnunlhWA" id="-jYsTaRadqL-L6lSwuLaInQ" uri="tasks/crear_servidor_de_integracion_continua.xmi"/>
     <resourceDescriptors xmi:id="_lnXo8PmQEe2VUpbnunlhWA" id="-XQwC8WKpXphyTlmiShJ8dQ" uri="tasks/realizar_testeo_automatico_en_el_servidor.xmi"/>
     <resourceDescriptors xmi:id="_LXtr4PmVEe2-LZslZI9vgg" id="-QEngr24ZmRtyh4eo_muC2g" uri="tasks/obtener_los_resultados.xmi"/>
+    <resourceDescriptors xmi:id="_PyKogPmWEe2-LZslZI9vgg" id="-jdK2g43RB9JwarfB3LnBmw" uri="roles/desarrollador_backend%203.xmi"/>
+    <resourceDescriptors xmi:id="_PyNr0PmWEe2-LZslZI9vgg" id="-z6XlpSEXVdvHSugpD8nzNw" uri="roles/desarrollador_frontend%203.xmi"/>
+    <resourceDescriptors xmi:id="_xLCRsPmWEe2-LZslZI9vgg" id="-CD9zDs_CZjlPyR3s0z006w" uri="tasks/transferir_codigo_fuente_al_comipilador.xmi"/>
+    <resourceDescriptors xmi:id="_pVVrUPmXEe2-LZslZI9vgg" id="-UgUyEqxONjd-Jr7b1lDCVA" uri="tasks/compilar_el_codigo.xmi"/>
+    <resourceDescriptors xmi:id="_Gzub8PmYEe2-LZslZI9vgg" id="-upP4mSQ_1rUv_5iG5d5Btg" uri="roles/desarrollador_backend%204.xmi"/>
+    <resourceDescriptors xmi:id="_GzwRIPmYEe2-LZslZI9vgg" id="-61WpOFb3F7JftRkZ2FuOEw" uri="roles/desarrollador_frontend%204.xmi"/>
+    <resourceDescriptors xmi:id="_gaMDUPmZEe2-LZslZI9vgg" id="-LJCsiGJVeRKkI1ASxVHFjA" uri="tasks/desarrollar_y_distribuir_el_manual.xmi"/>
+    <resourceDescriptors xmi:id="_2BIWkPmZEe2-LZslZI9vgg" id="-7ZnMTLU68gHUQ6J1UsQaqw" uri="roles/arquitecto.xmi"/>
+    <resourceDescriptors xmi:id="_2BKLwPmZEe2-LZslZI9vgg" id="-loYmQwqpFyQdCWUukUdAww" uri="roles/gerente_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_AasLYPmaEe2-LZslZI9vgg" id="-9fS61u6SISkgwMHLKioY7g" uri="tasks/analizar_el_funcionamiento_del_codigo.xmi"/>
+    <resourceDescriptors xmi:id="_dVft0PmaEe2-LZslZI9vgg" id="-5YOlkGESA6FvlO0UjDG9-A" uri="tasks/notificar_sobre_los_cambios.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_eC0PcPjtEe2wNP29IlE1iA" name="implementacion" guid="_eC0PcPjtEe2wNP29IlE1iA" presentationName="implementacion" briefDescription="En esta disciplina se tiene como objetivo la eleccion de las herramientas de trabajo, como lo son el entorno de desarrollo y lenguaje, ademas de esto, se busca implenetar lo diseñado en la disciplina anterior" authors="Julian Callejas, Andres Garcia, Kevin Sanchez">
     <methodElementProperty xmi:id="_fPmLoPjtEe2wNP29IlE1iA" name="me_edited" value="true"/>
@@ -105,14 +116,67 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4-onUPmKEe2VUpbnunlhWA" name="compilacion_del_codigo" guid="_4-onUPmKEe2VUpbnunlhWA" presentationName="Compilacion del codigo" briefDescription="En este paso se busca crear el ejecutable del codigo, es decir, toda la aplicacion integrada se vuelve un ejecutable.">
           <methodElementProperty xmi:id="_4-onUfmKEe2VUpbnunlhWA" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_6iu3UPmKEe2VUpbnunlhWA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_PxcPwPmWEe2-LZslZI9vgg" name="desarrollador_backend" guid="_PxcPwPmWEe2-LZslZI9vgg" presentationName="Desarrollador BackEnd" briefDescription="Es el encargado de desarrollar y conectar toda la actividad de una web o aplicación con el servidor y sus bases de datos">
+            <methodElementProperty xmi:id="_PyG-IPmWEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-jdK2g43RB9JwarfB3LnBmw" href="uma://-jdK2g43RB9JwarfB3LnBmw#-jdK2g43RB9JwarfB3LnBmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_PxcPwfmWEe2-LZslZI9vgg" name="desarrollador_frontend" guid="_PxcPwfmWEe2-LZslZI9vgg" presentationName="Desarrollador FrontEnd" briefDescription="El desarrollador frontend es el encargado de realizar todo lo relacionado a la interfaz grafica del proyecto">
+            <methodElementProperty xmi:id="_PyG-IfmWEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-z6XlpSEXVdvHSugpD8nzNw" href="uma://-z6XlpSEXVdvHSugpD8nzNw#-z6XlpSEXVdvHSugpD8nzNw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_UXemwPmWEe2-LZslZI9vgg" name="programa_ejecutable" guid="_UXemwPmWEe2-LZslZI9vgg" presentationName="Programa ejecutable" briefDescription="Este ejecutable se basa en la creacion del codigo del proyecto, pero realizado de manera que se gener un ejecutable usable.">
+            <methodElementProperty xmi:id="_jXKSIPmWEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kXZAEPmWEe2-LZslZI9vgg" name="transferir_codigo_fuente_al_comipilador" guid="_kXZAEPmWEe2-LZslZI9vgg" presentationName="Transferir codigo fuente al comipilador" briefDescription="Se envia el codigo fuente que se realizo con anterioridad y ya esta corregido a un programa compilador, esto con el fin de que el lenguaje de programacion se vuelva un ejecutable utilizable por los usuarios." performedBy="_PxcPwPmWEe2-LZslZI9vgg _PxcPwfmWEe2-LZslZI9vgg" mandatoryInput="_xQ4cAPmLEe2VUpbnunlhWA" output="_UXemwPmWEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_sxYw4PmWEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-CD9zDs_CZjlPyR3s0z006w" href="uma://-CD9zDs_CZjlPyR3s0z006w#-CD9zDs_CZjlPyR3s0z006w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1RPSEPmWEe2-LZslZI9vgg" name="compilar_el_codigo" guid="_1RPSEPmWEe2-LZslZI9vgg" presentationName="Compilar el codigo" briefDescription="Luego de realizar la tarea anterior se obtiene el codigo ejecutable, esto con el fin de que este se presente a los usuarios con el fin de poder realizar las demas actividades que se tienen planitifcadas en el rup." performedBy="_PxcPwPmWEe2-LZslZI9vgg _PxcPwfmWEe2-LZslZI9vgg" mandatoryInput="_UXemwPmWEe2-LZslZI9vgg" output="_UXemwPmWEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_iSWwwPmXEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-UgUyEqxONjd-Jr7b1lDCVA" href="uma://-UgUyEqxONjd-Jr7b1lDCVA#-UgUyEqxONjd-Jr7b1lDCVA"/>
+          </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_-idcQPmKEe2VUpbnunlhWA" name="realizacion_de_manual" guid="_-idcQPmKEe2VUpbnunlhWA" presentationName="Realizacion de manual" briefDescription="En esta actividad se crea un manual de uso sobre la aplicacion que se desarrollo">
           <methodElementProperty xmi:id="_-idcQfmKEe2VUpbnunlhWA" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_CY3GEPmLEe2VUpbnunlhWA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_GzDtkPmYEe2-LZslZI9vgg" name="desarrollador_backend" guid="_GzDtkPmYEe2-LZslZI9vgg" presentationName="Desarrollador BackEnd" briefDescription="Es el encargado de desarrollar y conectar toda la actividad de una web o aplicación con el servidor y sus bases de datos" responsibleFor="_NAXkYPmYEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_GzrYoPmYEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-upP4mSQ_1rUv_5iG5d5Btg" href="uma://-upP4mSQ_1rUv_5iG5d5Btg#-upP4mSQ_1rUv_5iG5d5Btg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_GzDtkfmYEe2-LZslZI9vgg" name="desarrollador_frontend" guid="_GzDtkfmYEe2-LZslZI9vgg" presentationName="Desarrollador FrontEnd" briefDescription="El desarrollador frontend es el encargado de realizar todo lo relacionado a la interfaz grafica del proyecto" responsibleFor="_NAXkYPmYEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_GzrYofmYEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-61WpOFb3F7JftRkZ2FuOEw" href="uma://-61WpOFb3F7JftRkZ2FuOEw#-61WpOFb3F7JftRkZ2FuOEw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NAXkYPmYEe2-LZslZI9vgg" name="manual" guid="_NAXkYPmYEe2-LZslZI9vgg" presentationName="Manual" briefDescription="El manual de usuario es un documento que tiene como objetivo dar informacion a los usuario o stakeholders acerca del funcionamiento y las capacidades que tienen la aplicacion, es decir, es una guia de las funciones que se tienen y el modo de uso de este.">
+            <methodElementProperty xmi:id="_15FDQPmYEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__E-yIPmYEe2-LZslZI9vgg" name="desarrollar_y_distribuir_el_manual" guid="__E-yIPmYEe2-LZslZI9vgg" presentationName="Desarrollar y distribuir el manual" briefDescription="La actividad de desarrollar el manual de usuario se encarga de generar un documento en el cual se obtiene luego de desarrollar la tarea, en este documento se tiene informacion del usuo y desarrollo de la aplicacion, ademas, de ser la guia, ademas de esto, se destribuye a todos los usuarios que adquieran la apliacion con el fin de que no tengan errores." performedBy="_GzDtkPmYEe2-LZslZI9vgg _GzDtkfmYEe2-LZslZI9vgg" mandatoryInput="_UXemwPmWEe2-LZslZI9vgg" output="_NAXkYPmYEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_CWQ8sPmZEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-LJCsiGJVeRKkI1ASxVHFjA" href="uma://-LJCsiGJVeRKkI1ASxVHFjA#-LJCsiGJVeRKkI1ASxVHFjA"/>
+          </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_CyOoUPmLEe2VUpbnunlhWA" name="revision_del_proyecto" guid="_CyOoUPmLEe2VUpbnunlhWA" presentationName="Revision del proyecto" briefDescription="Se analiza de manera rapida el funcionamiento del codigo y se notifican que mejoras se pueden dar">
           <methodElementProperty xmi:id="_CyOoUfmLEe2VUpbnunlhWA" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_HMcw4PmLEe2VUpbnunlhWA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_m2VAUPmZEe2-LZslZI9vgg" name="informe_de_cambios" guid="_m2VAUPmZEe2-LZslZI9vgg" presentationName="Informe de cambios" briefDescription="En este documento se tiene la informacion de los cambios que se pueden realizar al codigo o proyecto, es decir, los cambios que se tienen luego de realizar el proceso de revision del codigo, ya sea backend o frontend. ">
+            <methodElementProperty xmi:id="_xabRMPmZEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_11lN4PmZEe2-LZslZI9vgg" name="arquitecto" guid="_11lN4PmZEe2-LZslZI9vgg" presentationName="Arquitecto" briefDescription="El arquitecto del proyecto es el encargado de realizar la documentacion pertinente del proyecto.">
+            <methodElementProperty xmi:id="_2BEsMPmZEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-7ZnMTLU68gHUQ6J1UsQaqw" href="uma://-7ZnMTLU68gHUQ6J1UsQaqw#-7ZnMTLU68gHUQ6J1UsQaqw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_11lN4fmZEe2-LZslZI9vgg" name="gerente_del_proyecto" guid="_11lN4fmZEe2-LZslZI9vgg" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores">
+            <methodElementProperty xmi:id="_2BEsMfmZEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-loYmQwqpFyQdCWUukUdAww" href="uma://-loYmQwqpFyQdCWUukUdAww#-loYmQwqpFyQdCWUukUdAww"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3-gCMPmZEe2-LZslZI9vgg" name="analizar_el_funcionamiento_del_codigo" guid="_3-gCMPmZEe2-LZslZI9vgg" presentationName="Analizar el funcionamiento del codigo" briefDescription="El analisis del codigo se realiza de manera rapida, es decir, se buscan errores y cambios a realizar, esto con el fin de evitar problemas futuros dentro de las demas partes del proyecto como lo es la compilacion" performedBy="_11lN4PmZEe2-LZslZI9vgg _11lN4fmZEe2-LZslZI9vgg" mandatoryInput="_UXemwPmWEe2-LZslZI9vgg" output="_m2VAUPmZEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_7uZbYPmZEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-9fS61u6SISkgwMHLKioY7g" href="uma://-9fS61u6SISkgwMHLKioY7g#-9fS61u6SISkgwMHLKioY7g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8BXasPmZEe2-LZslZI9vgg" name="notificar_sobre_los_cambios" guid="_8BXasPmZEe2-LZslZI9vgg" presentationName="Notificar sobre los cambios" briefDescription="Luego de realizar una revision del codigo se genera una notificacion a los desarrolladores, esto con el fin de generar una alerta y que estos puedan realizar modificaciones." performedBy="_11lN4PmZEe2-LZslZI9vgg _11lN4fmZEe2-LZslZI9vgg" mandatoryInput="_m2VAUPmZEe2-LZslZI9vgg" output="_m2VAUPmZEe2-LZslZI9vgg" additionallyPerformedBy="_UMHFQPmLEe2VUpbnunlhWA _UyJKgPmLEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_9Fvo0PmZEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-5YOlkGESA6FvlO0UjDG9-A" href="uma://-5YOlkGESA6FvlO0UjDG9-A#-5YOlkGESA6FvlO0UjDG9-A"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eC0PffjtEe2wNP29IlE1iA" name="CapabilityPatterns" guid="_eC0PffjtEe2wNP29IlE1iA"/>

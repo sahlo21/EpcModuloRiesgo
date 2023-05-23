@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iB8t870uEBHWvaWzMsa9vw" name="new_role,_RbAy4PkYEe2wNP29IlE1iA" guid="-iB8t870uEBHWvaWzMsa9vw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T22:19:53.525-0500" changeDescription="Se añadio toda la informacion y relacion del rol tester qa" version="Version final">
+  <mainDescription>El rol de Tester QA dentro de un equipo de trabajo es aquel que se encarga de realizar pruebas funcionales y no funcionales&#xD;
+al programa a desarrollar dentro del proyecto, todo esto con el fin de encontrar errores y realizar la notificacion de&#xD;
+estos.</mainDescription>
+  <skills>&lt;p>&#xD;
+    El tester QA debe tener como habilidades el analisis y la intuicion con el fin de saber que pruebas realizar a que&#xD;
+    programas y saber en que lugares es mas probables que se genere un error.&#xD;
+&lt;/p></skills>
+  <assignmentApproaches>El enfoque principal de los Testers QA es realizar pruebas funcionales y no funcionales a los programas, todo esto con el&#xD;
+fin de encontrar problemas para que los desarrolladores den soluciones.</assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

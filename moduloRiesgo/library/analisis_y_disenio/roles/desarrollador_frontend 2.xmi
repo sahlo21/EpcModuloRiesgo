@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jucTU8qAZpSMAmx-OW-r0A" name="new_role,_UyJKgPmLEe2VUpbnunlhWA" guid="-jucTU8qAZpSMAmx-OW-r0A" authors="Julian Callejas, Kevin Sanchez, Andres Garcia" changeDate="2023-05-23T12:01:31.825-0500" changeDescription="Rol con los entregables y la documentacion necesaria" version="Version final">
+  <mainDescription>Un desarrollador front-end trabaja la interfaz de usuario desde el punto de vista del código, para que la interacción con&#xD;
+el sistema sea posible.</mainDescription>
+  <skills>Las habilidades de un desarrollador FrontEnd es la intuicion, el sentido de la estetica y usabilidad, asi como la capacidad&#xD;
+de seguir reglas y pasos establecidos.</skills>
+  <assignmentApproaches>El enfoque que se da en el frontend es a la realizacion de interfaz de usuario, asi como realizar la conexion de estas con&#xD;
+el codigo realizado en el backend</assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

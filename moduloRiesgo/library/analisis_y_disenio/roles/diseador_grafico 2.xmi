@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Abzx7Xbg73ai2wGvhOSDFQ" name="new_role,_yWatcPmbEe2-LZslZI9vgg" guid="-Abzx7Xbg73ai2wGvhOSDFQ" changeDate="2023-05-23T14:00:30.145-0500">
+  <mainDescription>El diseñador greafico es el rol encargado de realizar los diseños o prototipos de las interfaces, es decir, se encarga de&#xD;
+realizar una vista previa al desarrollo de las interfaces, con esto, se logra que se tenga una vista mas clara del&#xD;
+proyecto, ademas de esto, puede realizar funciones extras como el diseño de logotipos o graficos.</mainDescription>
+  <skills>Para ser un diseñador grafico se debe de tener mucha creatividad, asi como la capacidad de seguir instrucciones que se dan&#xD;
+con anterioridad</skills>
+  <assignmentApproaches>&lt;p>&#xD;
+    El diseñador grafico se enfoca en la creacion de mockups, es decir, prototipos de interfaces funcionales.&#xD;
+&lt;/p></assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

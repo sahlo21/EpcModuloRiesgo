@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CD9zDs_CZjlPyR3s0z006w" name=",_kXZAEPmWEe2-LZslZI9vgg" guid="-CD9zDs_CZjlPyR3s0z006w">
+  <sections xmi:id="_tfjecPmWEe2-LZslZI9vgg" name="Obtener el codigo fuente" guid="_tfjecPmWEe2-LZslZI9vgg"/>
+  <sections xmi:id="_vDBcUPmWEe2-LZslZI9vgg" name="Ingresarlo al compilador" guid="_vDBcUPmWEe2-LZslZI9vgg"/>
+  <sections xmi:id="_v0k1EPmWEe2-LZslZI9vgg" name="Obtener el exe" guid="_v0k1EPmWEe2-LZslZI9vgg"/>
+</org.eclipse.epf.uma:TaskDescription>

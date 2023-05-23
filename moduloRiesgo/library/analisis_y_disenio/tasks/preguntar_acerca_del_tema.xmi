@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_NPy_i-dePpAWyJtyEbNYw" name=",_pLv4MPmcEe2-LZslZI9vgg" guid="-_NPy_i-dePpAWyJtyEbNYw">
+  <sections xmi:id="_zL2EIPmcEe2-LZslZI9vgg" name="Entrar a la reunion" guid="_zL2EIPmcEe2-LZslZI9vgg"/>
+  <sections xmi:id="_0U7zIPmcEe2-LZslZI9vgg" name="Realizar preguntas" guid="_0U7zIPmcEe2-LZslZI9vgg"/>
+</org.eclipse.epf.uma:TaskDescription>

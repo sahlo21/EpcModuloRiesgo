@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_jBRi8fjsEe2wNP29IlE1iA" guid="_jBRi8fjsEe2wNP29IlE1iA"/>
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_jBRi8fjsEe2wNP29IlE1iA" guid="_jBRi8fjsEe2wNP29IlE1iA">
+    <resourceDescriptors xmi:id="_lDllcvmbEe2-LZslZI9vgg" id="-64ZbHnQFjtODiqC3aDlYbg" uri="tasks/asignar_reuniones_dailys.xmi"/>
+    <resourceDescriptors xmi:id="_l_raQvmbEe2-LZslZI9vgg" id="-S6_8Rq9vwMHtso5MR5aexQ" uri="roles/gerente_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_n7eYkPmbEe2-LZslZI9vgg" id="-zH-4wi5-kGodo7DOYT1sDQ" uri="roles/desarrollador_backend.xmi"/>
+    <resourceDescriptors xmi:id="_n7eYkfmbEe2-LZslZI9vgg" id="-RykfWrlTi9E0YBDZhX2Fdw" uri="roles/desarrollador_frontend.xmi"/>
+    <resourceDescriptors xmi:id="_pvWJ8vmbEe2-LZslZI9vgg" id="-iB8t870uEBHWvaWzMsa9vw" uri="roles/tester_qa.xmi"/>
+    <resourceDescriptors xmi:id="_tGFcQfmbEe2-LZslZI9vgg" id="-4sBJT6BPeVm7OyLfTI8nBw" uri="roles/arquitecto.xmi"/>
+    <resourceDescriptors xmi:id="_QS6WYPmcEe2-LZslZI9vgg" id="-ummL63R-D6-p9CIDCdmMdA" uri="roles/arquitecto%202.xmi"/>
+    <resourceDescriptors xmi:id="_SJL7gPmcEe2-LZslZI9vgg" id="-suphgaOQndDVtRXN49P_bw" uri="roles/arquitecto%203.xmi"/>
+    <resourceDescriptors xmi:id="_TjGUwPmcEe2-LZslZI9vgg" id="-Abzx7Xbg73ai2wGvhOSDFQ" uri="roles/diseador_grafico%202.xmi"/>
+    <resourceDescriptors xmi:id="_3E1H4PmcEe2-LZslZI9vgg" id="-_NPy_i-dePpAWyJtyEbNYw" uri="tasks/preguntar_acerca_del_tema.xmi"/>
+    <resourceDescriptors xmi:id="_fkoXgPmdEe2-LZslZI9vgg" id="-UQKT3G03zdoK8k56IR_XhA" uri="roles/desarrollador_backend%202.xmi"/>
+    <resourceDescriptors xmi:id="_fkqMsPmdEe2-LZslZI9vgg" id="-jucTU8qAZpSMAmx-OW-r0A" uri="roles/desarrollador_frontend%202.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_jBQU0PjsEe2wNP29IlE1iA" name="analisis_y_disenio" guid="_jBQU0PjsEe2wNP29IlE1iA" presentationName="analisis y diseño" briefDescription="En esta disciplina se busca enteneder la disciplina anterior, es decir, se analisan los requisitos y se busca diseñar de la mejor manera la forma en la que se realizaran los procesos del programa" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T17:04:06.430-0500" changeDescription="En esta version se tiene de manera completa la disciplina de analisis y diseño, en la cual se incluyen los roles, actividades y tareas que se van a realizar dentro del proyecto" version="Version final">
     <methodElementProperty xmi:id="_kger4PjsEe2wNP29IlE1iA" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU0fjsEe2wNP29IlE1iA" name="Content" guid="_jBQU0fjsEe2wNP29IlE1iA">
@@ -17,7 +30,84 @@
           </childPackages>
         </childPackages>
       </childPackages>
-      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU3PjsEe2wNP29IlE1iA" name="CoreContent" guid="_jBQU3PjsEe2wNP29IlE1iA"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU3PjsEe2wNP29IlE1iA" name="CoreContent" guid="_jBQU3PjsEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OP9coPmbEe2-LZslZI9vgg" name="obtencion_de_informacion" guid="_OP9coPmbEe2-LZslZI9vgg" presentationName="Obtencion de informacion" briefDescription="Se obtiene informacion extra sobre el proyecto para realizar los diversos procesos.">
+          <methodElementProperty xmi:id="_OP9cofmbEe2-LZslZI9vgg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_QaA5YPmbEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k4UJkPmbEe2-LZslZI9vgg" name="asignar_reuniones_dailys" guid="_k4UJkPmbEe2-LZslZI9vgg" presentationName="Asignar reuniones dailys" briefDescription="Se realizan reuniones diarias con los stakeholders con el fin de obtener los requisitos de los usuarios." performedBy="_l0p2APmbEe2-LZslZI9vgg" output="_ND1yUPmcEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_lDllcPmbEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-64ZbHnQFjtODiqC3aDlYbg" href="uma://-64ZbHnQFjtODiqC3aDlYbg#-64ZbHnQFjtODiqC3aDlYbg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_l0p2APmbEe2-LZslZI9vgg" name="gerente_del_proyecto" guid="_l0p2APmbEe2-LZslZI9vgg" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores">
+            <methodElementProperty xmi:id="_l_raQPmbEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-S6_8Rq9vwMHtso5MR5aexQ" href="uma://-S6_8Rq9vwMHtso5MR5aexQ#-S6_8Rq9vwMHtso5MR5aexQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_n6ycEPmbEe2-LZslZI9vgg" name="desarrollador_backend" guid="_n6ycEPmbEe2-LZslZI9vgg" presentationName="Desarrollador BackEnd" briefDescription="Es el encargado de desarrollar y conectar toda la actividad de una web o aplicación con el servidor y sus bases de datos">
+            <methodElementProperty xmi:id="_n7ZgEPmbEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-zH-4wi5-kGodo7DOYT1sDQ" href="uma://-zH-4wi5-kGodo7DOYT1sDQ#-zH-4wi5-kGodo7DOYT1sDQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_n6ycEfmbEe2-LZslZI9vgg" name="desarrollador_frontend" guid="_n6ycEfmbEe2-LZslZI9vgg" presentationName="Desarrollador FrontEnd" briefDescription="El desarrollador frontend es el encargado de realizar todo lo relacionado a la interfaz grafica del proyecto">
+            <methodElementProperty xmi:id="_n7ZgEfmbEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-RykfWrlTi9E0YBDZhX2Fdw" href="uma://-RykfWrlTi9E0YBDZhX2Fdw#-RykfWrlTi9E0YBDZhX2Fdw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_pkTXkPmbEe2-LZslZI9vgg" name="tester_qa" guid="_pkTXkPmbEe2-LZslZI9vgg" presentationName="Tester QA" briefDescription="El tester QA es el rol encargado de realizar pruebas a las aplicaciones realizadas por los desarrolladores.">
+            <methodElementProperty xmi:id="_pvWJ8PmbEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-iB8t870uEBHWvaWzMsa9vw" href="uma://-iB8t870uEBHWvaWzMsa9vw#-iB8t870uEBHWvaWzMsa9vw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_s4wx8PmbEe2-LZslZI9vgg" name="arquitecto" guid="_s4wx8PmbEe2-LZslZI9vgg" presentationName="Arquitecto" briefDescription="El arquitecto del proyecto es el encargado de realizar la documentacion pertinente del proyecto.">
+            <methodElementProperty xmi:id="_tGAjwPmbEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-4sBJT6BPeVm7OyLfTI8nBw" href="uma://-4sBJT6BPeVm7OyLfTI8nBw#-4sBJT6BPeVm7OyLfTI8nBw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ND1yUPmcEe2-LZslZI9vgg" name="informacion_detallada_sobre_el_sistema" guid="_ND1yUPmcEe2-LZslZI9vgg" presentationName="Informacion detallada sobre el sistema" briefDescription="Se busca obtener toda la informaciond dada, esto se realiza a apartir de informacion que se obtiene de realizar reuniones con expertos en el tema.">
+            <methodElementProperty xmi:id="_iJ0tkPmcEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pLv4MPmcEe2-LZslZI9vgg" name="preguntar_acerca_del_tema" guid="_pLv4MPmcEe2-LZslZI9vgg" presentationName="Preguntar acerca del tema" briefDescription="Mientras se realiza la reunion con el experto se busca obtener toda la informacion posible acerca del tema, es decir, se busca que las personas de parte del equipo realicen preguntan sobre las posibles dudas que se generen a la hora de realizar el proyecto." performedBy="_s4wx8PmbEe2-LZslZI9vgg _n6ycEPmbEe2-LZslZI9vgg _n6ycEfmbEe2-LZslZI9vgg _l0p2APmbEe2-LZslZI9vgg _pkTXkPmbEe2-LZslZI9vgg" mandatoryInput="_ND1yUPmcEe2-LZslZI9vgg" output="_ND1yUPmcEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_ynNGAPmcEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-_NPy_i-dePpAWyJtyEbNYw" href="uma://-_NPy_i-dePpAWyJtyEbNYw#-_NPy_i-dePpAWyJtyEbNYw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_V7dvwPmbEe2-LZslZI9vgg" name="diseo_de_interfaces" guid="_V7dvwPmbEe2-LZslZI9vgg" presentationName="Diseño de interfaces" briefDescription="Se realiza el diseño de las interfaces graficas, con el fin de poder tener una vista mas clara del proyecto">
+          <methodElementProperty xmi:id="_V7dvwfmbEe2-LZslZI9vgg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_aV_aUPmbEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Tige4PmcEe2-LZslZI9vgg" name="diseador_grafico" guid="_Tige4PmcEe2-LZslZI9vgg" presentationName="Diseñador grafico" briefDescription="El diseñador greafico es el rol encargado de realizar los diseños o prototipos de las interfaces, es decir, se encarga de realizar una vista previa al desarrollo de las interfaces, con esto, se logra que se tenga una vista mas clara del proyecto" responsibleFor="_9_P8UPmcEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_TjD4gPmcEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Abzx7Xbg73ai2wGvhOSDFQ" href="uma://-Abzx7Xbg73ai2wGvhOSDFQ#-Abzx7Xbg73ai2wGvhOSDFQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9_P8UPmcEe2-LZslZI9vgg" name="mockups_del_programa" guid="_9_P8UPmcEe2-LZslZI9vgg" presentationName="Mockups del programa" briefDescription="El documento se encarga de tener una vista exacta de las interfaces que se van a realizar, es decir, se tiene un prototipo de las interfaces que se van a ver dentro del proyecto">
+            <methodElementProperty xmi:id="_I84ukPmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_M5NaMPmdEe2-LZslZI9vgg" name="analisis_de_requerimientos" guid="_M5NaMPmdEe2-LZslZI9vgg" presentationName="Analisis de requerimientos" performedBy="_Tige4PmcEe2-LZslZI9vgg" mandatoryInput="_ND1yUPmcEe2-LZslZI9vgg" output="_9_P8UPmcEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_O8Yy4PmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_PYs7cPmdEe2-LZslZI9vgg" name="diseo_de_interfaces" guid="_PYs7cPmdEe2-LZslZI9vgg" presentationName="Diseño de interfaces" performedBy="_Tige4PmcEe2-LZslZI9vgg" mandatoryInput="_9_P8UPmcEe2-LZslZI9vgg" output="_9_P8UPmcEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_QcX-8PmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Q9kAcPmdEe2-LZslZI9vgg" name="entrega_de_diseos" guid="_Q9kAcPmdEe2-LZslZI9vgg" presentationName="Entrega de diseños" performedBy="_Tige4PmcEe2-LZslZI9vgg" mandatoryInput="_9_P8UPmcEe2-LZslZI9vgg" output="_9_P8UPmcEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_R5sRgPmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bmKowPmbEe2-LZslZI9vgg" name="analisis_de_diseo" guid="_bmKowPmbEe2-LZslZI9vgg" presentationName="Analisis de diseño" briefDescription="El analisis de diseño se basa en la obtencion de datos de las interfaces que se crearon con anterioridad.">
+          <methodElementProperty xmi:id="_bmKowfmbEe2-LZslZI9vgg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_c5yMwPmbEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_fj6l0PmdEe2-LZslZI9vgg" name="desarrollador_backend" guid="_fj6l0PmdEe2-LZslZI9vgg" presentationName="Desarrollador BackEnd" briefDescription="Es el encargado de desarrollar y conectar toda la actividad de una web o aplicación con el servidor y sus bases de datos">
+            <methodElementProperty xmi:id="_fkmiUPmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-UQKT3G03zdoK8k56IR_XhA" href="uma://-UQKT3G03zdoK8k56IR_XhA#-UQKT3G03zdoK8k56IR_XhA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_fj7M4PmdEe2-LZslZI9vgg" name="desarrollador_frontend" guid="_fj7M4PmdEe2-LZslZI9vgg" presentationName="Desarrollador FrontEnd" briefDescription="El desarrollador frontend es el encargado de realizar todo lo relacionado a la interfaz grafica del proyecto">
+            <methodElementProperty xmi:id="_fkmiUfmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-jucTU8qAZpSMAmx-OW-r0A" href="uma://-jucTU8qAZpSMAmx-OW-r0A#-jucTU8qAZpSMAmx-OW-r0A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gZs-UPmdEe2-LZslZI9vgg" name="documento_de_necesidades" guid="_gZs-UPmdEe2-LZslZI9vgg" presentationName="Documento de necesidades" briefDescription="El documento de necesidades es aquel que se tiene luego de revisar las interfaces graficas, y con esto se tendra una idea de como se puede empezar a iniciar el desarrollo de sistemas, es decir, se realiza un acuerdo entre desarrolladores con el fin de dar soluciona las necesidades">
+            <methodElementProperty xmi:id="_sW-BkPmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tAlmUPmdEe2-LZslZI9vgg" name="analizar_los_mockups_del_sistema" guid="_tAlmUPmdEe2-LZslZI9vgg" presentationName="Analizar los mockups del sistema" performedBy="_fj6l0PmdEe2-LZslZI9vgg _fj7M4PmdEe2-LZslZI9vgg" mandatoryInput="_9_P8UPmcEe2-LZslZI9vgg" output="_gZs-UPmdEe2-LZslZI9vgg" additionallyPerformedBy="_Tige4PmcEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_u1yNYPmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yvuTYPmdEe2-LZslZI9vgg" name="desarrollo_de_documento_de_necesidades" guid="_yvuTYPmdEe2-LZslZI9vgg" presentationName="Desarrollo de documento de necesidades" performedBy="_fj6l0PmdEe2-LZslZI9vgg _fj7M4PmdEe2-LZslZI9vgg" mandatoryInput="_gZs-UPmdEe2-LZslZI9vgg" output="_gZs-UPmdEe2-LZslZI9vgg">
+            <methodElementProperty xmi:id="_0bFpAPmdEe2-LZslZI9vgg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_jBQU3fjsEe2wNP29IlE1iA" name="CapabilityPatterns" guid="_jBQU3fjsEe2wNP29IlE1iA"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_jBQU3vjsEe2wNP29IlE1iA" name="DeliveryProcesses" guid="_jBQU3vjsEe2wNP29IlE1iA"/>
