@@ -92,7 +92,7 @@
             <methodElementProperty xmi:id="_E534APmQEe2VUpbnunlhWA" name="me_edited" value="true"/>
             <presentation xmi:id="-jYsTaRadqL-L6lSwuLaInQ" href="uma://-jYsTaRadqL-L6lSwuLaInQ#-jYsTaRadqL-L6lSwuLaInQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VdFLoPmQEe2VUpbnunlhWA" name="realizar_testeo_automatico_en_el_servidor" guid="_VdFLoPmQEe2VUpbnunlhWA" presentationName="Realizar testeo automatico en el servidor">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VdFLoPmQEe2VUpbnunlhWA" name="realizar_testeo_automatico_en_el_servidor" guid="_VdFLoPmQEe2VUpbnunlhWA" presentationName="Realizar testeo automatico en el servidor" briefDescription="Se encarga de probar la eficiencia del servidor">
             <methodElementProperty xmi:id="_fONugPmQEe2VUpbnunlhWA" name="me_edited" value="true"/>
             <presentation xmi:id="-XQwC8WKpXphyTlmiShJ8dQ" href="uma://-XQwC8WKpXphyTlmiShJ8dQ#-XQwC8WKpXphyTlmiShJ8dQ"/>
           </contentElements>
