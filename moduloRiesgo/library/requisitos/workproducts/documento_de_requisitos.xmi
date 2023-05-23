@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gqNe__BvBfrv5q1ClEj_Kg" name="new_artifact,_OlGJgPl3Ee2VUpbnunlhWA" guid="-gqNe__BvBfrv5q1ClEj_Kg" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T09:42:32.541-0500" changeDescription="Documento con toda la documentacion." version="Version final">
+  <mainDescription>Los requisitos en el documento se escriben en lenguaje claro y ordenado, con el fin de evitar que se generen errores a la&#xD;
+hora de entender las necesidades de los usuarios.</mainDescription>
+  <purpose>El proposito de este documento es gestionar de la mejor manera los requisitos de los usuarios.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

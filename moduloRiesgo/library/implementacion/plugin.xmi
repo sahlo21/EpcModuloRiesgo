@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_eC0PgfjtEe2wNP29IlE1iA" guid="_eC0PgfjtEe2wNP29IlE1iA"/>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_eC0PcPjtEe2wNP29IlE1iA" name="implementacion" guid="_eC0PcPjtEe2wNP29IlE1iA" presentationName="implementacion" briefDescription="En esta disciplina se tiene como objetivo la eleccion de las herramientas de trabajo, como lo son el entorno de desarrollo y lenguaje, ademas de esto, se busca implenetar lo diseñado en la disciplina anterior" authors="Julian Callejas, Andres Garcia, Kevin Sanchez">
+    <methodElementProperty xmi:id="_fPmLoPjtEe2wNP29IlE1iA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0PcfjtEe2wNP29IlE1iA" name="Content" guid="_eC0PcfjtEe2wNP29IlE1iA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0PcvjtEe2wNP29IlE1iA" name="Categories" guid="_eC0PcvjtEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0Pc_jtEe2wNP29IlE1iA" name="Domains" guid="_eC0Pc_jtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0PdPjtEe2wNP29IlE1iA" name="Disciplines" guid="_eC0PdPjtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0PdfjtEe2wNP29IlE1iA" name="RoleSets" guid="_eC0PdfjtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0PdvjtEe2wNP29IlE1iA" name="WP Types" guid="_eC0PdvjtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0Pd_jtEe2wNP29IlE1iA" name="Tools" guid="_eC0Pd_jtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0PePjtEe2wNP29IlE1iA" name="StandardCategories" guid="_eC0PePjtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0PefjtEe2wNP29IlE1iA" name="CustomCategories" guid="_eC0PefjtEe2wNP29IlE1iA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0PevjtEe2wNP29IlE1iA" name="Hidden" guid="_eC0PevjtEe2wNP29IlE1iA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_eC0Pe_jtEe2wNP29IlE1iA" name="Custom Categories" guid="_eC0Pe_jtEe2wNP29IlE1iA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eC0PfPjtEe2wNP29IlE1iA" name="CoreContent" guid="_eC0PfPjtEe2wNP29IlE1iA"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eC0PffjtEe2wNP29IlE1iA" name="CapabilityPatterns" guid="_eC0PffjtEe2wNP29IlE1iA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eC0PfvjtEe2wNP29IlE1iA" name="DeliveryProcesses" guid="_eC0PfvjtEe2wNP29IlE1iA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eC0Pf_jtEe2wNP29IlE1iA" name="ProcessContributions" guid="_eC0Pf_jtEe2wNP29IlE1iA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

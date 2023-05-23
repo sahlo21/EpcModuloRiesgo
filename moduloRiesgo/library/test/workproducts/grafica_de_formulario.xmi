@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EEvZ_16rWDJ7ghNEwtIX6g" name="new_artifact,_x93koPkZEe2wNP29IlE1iA" guid="-EEvZ_16rWDJ7ghNEwtIX6g" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T22:28:13.665-0500" changeDescription="Documentado el artefacto de grafica de formulario" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    El artefacto de la grafica de formulario se encarga de mostrar a los gerentes la satisfaccion y uso de la aplicacion a&#xD;
+    un grupo de prueba de usuarios que van a tener contacto con un prototipo de la aplicacion.&#xD;
+&lt;/p></mainDescription>
+  <purpose>El proposito de la grafica de formulario es obtener feedback de los usuarios.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

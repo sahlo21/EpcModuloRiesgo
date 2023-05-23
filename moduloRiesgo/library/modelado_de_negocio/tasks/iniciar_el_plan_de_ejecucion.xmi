@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_icSkkGGZFutt27_rbe8fA" name=",_h1NL4PkBEe2wNP29IlE1iA" guid="-_icSkkGGZFutt27_rbe8fA" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T19:44:59.290-0500" changeDescription="Esta version contiene toda la documentacion y relaciones de la tarea correspondiente." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de iniciar el plan de ejecucion se basa en dejar claro el momento en que se termino el proceso de metologia de&#xD;
+    negocio, y por ende empiezan las demas dependencias junto a sus actividades correspondientes.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_xjCPUPkEEe2wNP29IlE1iA" name="Revisar de manera general todas las actividades anteriores" guid="_xjCPUPkEEe2wNP29IlE1iA">
+    <sectionDescription>En este paso se tiene como objetivo el realizar un ultima revision general de las actividades realizadas en esta&#xD;
+dependencia, esto se hace con el fin de evitar errores que se han realizado en otras actividades</sectionDescription>
+  </sections>
+  <sections xmi:id="_66dRsPkEEe2wNP29IlE1iA" name="Realizar el acta" guid="_66dRsPkEEe2wNP29IlE1iA">
+    <sectionDescription>En este paso se realiza el acta de inicio de ejecucion con todos los datos que se fueron recopilando y con la fecha de&#xD;
+cuando se deben iniciar las demas dependencias.</sectionDescription>
+  </sections>
+  <sections xmi:id="_FSgqoPkFEe2wNP29IlE1iA" name="Notificar sobre el inicio" guid="_FSgqoPkFEe2wNP29IlE1iA">
+    <sectionDescription>&lt;p>&#xD;
+    Luego de tener el acta esta se comparte con los demas miembros del equipo de trabajo para que den inicio a sus&#xD;
+    actividades correspondientes.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es dejar claro el momento que se da inicio al desarrollo del proyecto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

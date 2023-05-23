@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8AG0wyAYIdUUfHTq7CBtZw" name="new_artifact,_1okDMPllEe2VUpbnunlhWA" guid="-8AG0wyAYIdUUfHTq7CBtZw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T07:32:50.532-0500" changeDescription="Se agrego toda la documentacion necesaria del artefacto." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    Luego de realizar las diversas tareas se obtiene este documento o artefacto, el cual a grandes rasgos es un compilado&#xD;
+    de informacion de las pruebas que se realizaron al programa, incluyendo errores y cambios que se deben realizar.&#xD;
+&lt;/p></mainDescription>
+  <purpose>El proposito de este documento es generar informacion que se pueda analizar.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

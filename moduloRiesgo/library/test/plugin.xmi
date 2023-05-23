@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_srE5YfjtEe2wNP29IlE1iA" guid="_srE5YfjtEe2wNP29IlE1iA">
+    <resourceDescriptors xmi:id="_vwtwkvkZEe2wNP29IlE1iA" id="-ynvs_dPydzWrr1EdS_lpuA" uri="roles/tester_qa.xmi"/>
+    <resourceDescriptors xmi:id="_XmjdMfkaEe2wNP29IlE1iA" id="-EEvZ_16rWDJ7ghNEwtIX6g" uri="workproducts/grafica_de_formulario.xmi"/>
+    <resourceDescriptors xmi:id="_JAs5YPliEe2VUpbnunlhWA" id="-cptdQMBL9oS-ABCkMCXTng" uri="tasks/testear_objeto_ejecutable_personalizado_y_parametrizado.xmi"/>
+    <resourceDescriptors xmi:id="_9M2bYPliEe2VUpbnunlhWA" id="-cvMlas21ntTsi-cqN7EByg" uri="tasks/llenar_formulario_de_experiencia.xmi"/>
+    <resourceDescriptors xmi:id="_gxsM4PljEe2VUpbnunlhWA" id="-TD-kSFoj6EleteoIqoR-2Q" uri="roles/gerente_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_DbqRkPlkEe2VUpbnunlhWA" id="-oFPOTexUpuYebuGldxpTbw" uri="workproducts/informe_de_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_MUGR4PlkEe2VUpbnunlhWA" id="-claICuOh4ZIw2n0fVUK9mA" uri="tasks/analizar_la_grafica_con_los_resultados_de_los_formularios.xmi"/>
+    <resourceDescriptors xmi:id="_WH1nYPllEe2VUpbnunlhWA" id="-venVvijLKT31TgVqcedb2Q" uri="tasks/realizar_documento_con_mejoras_y_cambios.xmi"/>
+    <resourceDescriptors xmi:id="_yM_UMPllEe2VUpbnunlhWA" id="-LdQGt8o2v84ayqMSGSjAWw" uri="roles/tester_qa%202.xmi"/>
+    <resourceDescriptors xmi:id="_D4fFkPlmEe2VUpbnunlhWA" id="-8AG0wyAYIdUUfHTq7CBtZw" uri="workproducts/documento_testeo_funcional.xmi"/>
+    <resourceDescriptors xmi:id="_YrTiUPloEe2VUpbnunlhWA" id="-kbxrwXan9NSl_axukIwP8A" uri="tasks/probar_componentes.xmi"/>
+    <resourceDescriptors xmi:id="_jJgKEPlpEe2VUpbnunlhWA" id="-8v8Y8UQs7CnZiAt1rNIFUg" uri="tasks/realizar_documentacion_de_resultados.xmi"/>
+    <resourceDescriptors xmi:id="_UzobQPlqEe2VUpbnunlhWA" id="-MWF2rGk8ElVyWIjq5fED8Q" uri="tasks/realizar_pruebas_de_integracion.xmi"/>
+    <resourceDescriptors xmi:id="_IUEGwPlrEe2VUpbnunlhWA" id="-5PajxoQUcVACvl90scZdnQ" uri="tasks/realizar_pruebas_unitarias.xmi"/>
+    <resourceDescriptors xmi:id="_siscIPlrEe2VUpbnunlhWA" id="-TGbEDCuHBg-aj5k5NQ4Sdw" uri="roles/tester_qa%203.xmi"/>
+    <resourceDescriptors xmi:id="_Bv1IQPlsEe2VUpbnunlhWA" id="-VPa7jmJ5pSg6VokIjFjeRA" uri="workproducts/documento_pruebas_no_funcionales.xmi"/>
+    <resourceDescriptors xmi:id="_wDP8UflsEe2VUpbnunlhWA" id="-TLyiSTnVxo6TjO_npOqcOw" uri="roles/desarrollador_backend.xmi"/>
+    <resourceDescriptors xmi:id="_RqKokPltEe2VUpbnunlhWA" id="-5JWyi4XIosiYi3yJwa07UA" uri="tasks/realizar_documentacion_de_resultados%202.xmi"/>
+    <resourceDescriptors xmi:id="_9gUI8PltEe2VUpbnunlhWA" id="-z14rFJxOSaIoVXdPpb8vwA" uri="tasks/realizar_pruebas_de_compatibilidad.xmi"/>
+    <resourceDescriptors xmi:id="_wXh4UPluEe2VUpbnunlhWA" id="-8ae0Zk9bwT5D2T8njL5V3A" uri="tasks/realizar_pruebas_de_rendimiento.xmi"/>
+    <resourceDescriptors xmi:id="_3blUcflvEe2VUpbnunlhWA" id="-0fnHOusUBmBM7j-38UnwWQ" uri="tasks/realizar_pruebas_recuperacion.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_srE5UPjtEe2wNP29IlE1iA" name="test" guid="_srE5UPjtEe2wNP29IlE1iA" presentationName="test" briefDescription="En la disciplina test se busca realizar diversos tipos de pruebas a la aplicacion creada, esto con el fin de obtener resultados y con estos realizar el proceso de toma de desiciones o cambio al codigo de la aplicacion" authors="Julian Callejas, Andres Garcia, Kevin Sanchez">
+    <methodElementProperty xmi:id="_tPnJwPjtEe2wNP29IlE1iA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5UfjtEe2wNP29IlE1iA" name="Content" guid="_srE5UfjtEe2wNP29IlE1iA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5UvjtEe2wNP29IlE1iA" name="Categories" guid="_srE5UvjtEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5U_jtEe2wNP29IlE1iA" name="Domains" guid="_srE5U_jtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5VPjtEe2wNP29IlE1iA" name="Disciplines" guid="_srE5VPjtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5VfjtEe2wNP29IlE1iA" name="RoleSets" guid="_srE5VfjtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5VvjtEe2wNP29IlE1iA" name="WP Types" guid="_srE5VvjtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5V_jtEe2wNP29IlE1iA" name="Tools" guid="_srE5V_jtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5WPjtEe2wNP29IlE1iA" name="StandardCategories" guid="_srE5WPjtEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5WfjtEe2wNP29IlE1iA" name="CustomCategories" guid="_srE5WfjtEe2wNP29IlE1iA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5WvjtEe2wNP29IlE1iA" name="Hidden" guid="_srE5WvjtEe2wNP29IlE1iA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_srE5W_jtEe2wNP29IlE1iA" name="Custom Categories" guid="_srE5W_jtEe2wNP29IlE1iA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_srE5XPjtEe2wNP29IlE1iA" name="CoreContent" guid="_srE5XPjtEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_lsHxEPkXEe2wNP29IlE1iA" name="testing_funcional" guid="_lsHxEPkXEe2wNP29IlE1iA" presentationName="Testing funcional" briefDescription="En esta actividad se realizan todos los tipos de pruebas que son funcionales, es decir, todos aquellas pruebas que evaluan la usabilidad y funcionamiento del proyecto.">
+          <methodElementProperty xmi:id="_lsT-UPkXEe2wNP29IlE1iA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_y0J-UPkXEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_yMZeUPllEe2VUpbnunlhWA" name="tester_qa" guid="_yMZeUPllEe2VUpbnunlhWA" presentationName="Tester QA" briefDescription="El tester QA es el rol encargado de realizar pruebas a las aplicaciones realizadas por los desarrolladores." responsibleFor="_1okDMPllEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_yM-GEPllEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-LdQGt8o2v84ayqMSGSjAWw" href="uma://-LdQGt8o2v84ayqMSGSjAWw#-LdQGt8o2v84ayqMSGSjAWw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1okDMPllEe2VUpbnunlhWA" name="documento_testeo_funcional" guid="_1okDMPllEe2VUpbnunlhWA" presentationName="Documento testeo funcional" briefDescription="El documento testeo funcional contiene toda la informacion de las pruebas que se realizaron.">
+            <methodElementProperty xmi:id="_D4eegPlmEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-8AG0wyAYIdUUfHTq7CBtZw" href="uma://-8AG0wyAYIdUUfHTq7CBtZw#-8AG0wyAYIdUUfHTq7CBtZw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NmlikPlmEe2VUpbnunlhWA" name="realizar_pruebas_unitarias" guid="_NmlikPlmEe2VUpbnunlhWA" presentationName="Realizar pruebas unitarias" briefDescription="Las pruebas unitarias consisten en verificar el comportamiento de las unidades más pequeñas de su aplicación." performedBy="_yMZeUPllEe2VUpbnunlhWA" output="_1okDMPllEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_P3-9cPlmEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-5PajxoQUcVACvl90scZdnQ" href="uma://-5PajxoQUcVACvl90scZdnQ#-5PajxoQUcVACvl90scZdnQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QV_vIPlmEe2VUpbnunlhWA" name="realizar_pruebas_de_integracion" guid="_QV_vIPlmEe2VUpbnunlhWA" presentationName="Realizar pruebas de integracion" briefDescription="Las pruebas de integración o pruebas integradas se definen como un mecanismo de testeo de software, donde se realiza un análisis de los procesos." performedBy="_yMZeUPllEe2VUpbnunlhWA" mandatoryInput="_1okDMPllEe2VUpbnunlhWA" output="_1okDMPllEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_Rk7ncPlmEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-MWF2rGk8ElVyWIjq5fED8Q" href="uma://-MWF2rGk8ElVyWIjq5fED8Q#-MWF2rGk8ElVyWIjq5fED8Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vxFdAPlmEe2VUpbnunlhWA" name="probar_componentes" guid="_vxFdAPlmEe2VUpbnunlhWA" presentationName="Probar componentes" briefDescription="Esta tarea se basa en comprobar la interfaz grafica del proyecto." performedBy="_yMZeUPllEe2VUpbnunlhWA" mandatoryInput="_1okDMPllEe2VUpbnunlhWA" output="_1okDMPllEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_xlCt8PlmEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-kbxrwXan9NSl_axukIwP8A" href="uma://-kbxrwXan9NSl_axukIwP8A#-kbxrwXan9NSl_axukIwP8A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_x6uDAPlmEe2VUpbnunlhWA" name="realizar_documentacion_de_resultados" guid="_x6uDAPlmEe2VUpbnunlhWA" presentationName="Realizar documentacion de resultados" briefDescription="En esta tarea se compila toda la informacion de las pruebas que se realizaron en las tareas anteriores." performedBy="_yMZeUPllEe2VUpbnunlhWA" mandatoryInput="_1okDMPllEe2VUpbnunlhWA" output="_1okDMPllEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_4WxgcPlmEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-8v8Y8UQs7CnZiAt1rNIFUg" href="uma://-8v8Y8UQs7CnZiAt1rNIFUg#-8v8Y8UQs7CnZiAt1rNIFUg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_zbY9cPkXEe2wNP29IlE1iA" name="testing_no_funcional" guid="_zbY9cPkXEe2wNP29IlE1iA" presentationName="Testing no funcional" briefDescription="En esta actividad se realizan todas las pruebas que no son funcionales dentro del programa, es decir, se realizan las pruebas que evaluan la seguridad y rendimiento del programa realizado.">
+          <methodElementProperty xmi:id="_zbu7sPkXEe2wNP29IlE1iA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_6GcgMPkXEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_siF_MPlrEe2VUpbnunlhWA" name="tester_qa" guid="_siF_MPlrEe2VUpbnunlhWA" presentationName="Tester QA" briefDescription="El tester QA es el rol encargado de realizar pruebas a las aplicaciones realizadas por los desarrolladores." responsibleFor="_xDl0cPlrEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_sip_4PlrEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-TGbEDCuHBg-aj5k5NQ4Sdw" href="uma://-TGbEDCuHBg-aj5k5NQ4Sdw#-TGbEDCuHBg-aj5k5NQ4Sdw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xDl0cPlrEe2VUpbnunlhWA" name="documento_pruebas_no_funcionales" guid="_xDl0cPlrEe2VUpbnunlhWA" presentationName="Documento pruebas no funcionales" briefDescription="El documento de pruebas no funcionales contiene toda la informacion de las pruebas no funcionales realizadas.">
+            <methodElementProperty xmi:id="_-q_eQPlrEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-VPa7jmJ5pSg6VokIjFjeRA" href="uma://-VPa7jmJ5pSg6VokIjFjeRA#-VPa7jmJ5pSg6VokIjFjeRA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Sb0kcPlsEe2VUpbnunlhWA" name="realizar_documentacion_de_resultados" guid="_Sb0kcPlsEe2VUpbnunlhWA" presentationName="Realizar documentacion de resultados" briefDescription="Realizar la documentacion de resultados es el proceso de compilar toda la informacion obtenida en las demas tareas." performedBy="_siF_MPlrEe2VUpbnunlhWA" mandatoryInput="_xDl0cPlrEe2VUpbnunlhWA" output="_xDl0cPlrEe2VUpbnunlhWA" additionallyPerformedBy="_d-um8PlsEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_UPoEYPlsEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-5JWyi4XIosiYi3yJwa07UA" href="uma://-5JWyi4XIosiYi3yJwa07UA#-5JWyi4XIosiYi3yJwa07UA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UlC6wPlsEe2VUpbnunlhWA" name="realizar_pruebas_recuperacion" guid="_UlC6wPlsEe2VUpbnunlhWA" presentationName="Realizar pruebas recuperacion" briefDescription="Las pruebas de recuperación son pruebas no funcionales que determinan la capacidad del software para recuperarse de fallas tales como fallas de software / hardware o cualquier falla de la red." performedBy="_siF_MPlrEe2VUpbnunlhWA" mandatoryInput="_xDl0cPlrEe2VUpbnunlhWA" output="_xDl0cPlrEe2VUpbnunlhWA" additionallyPerformedBy="_d-um8PlsEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_WMmucPlsEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-0fnHOusUBmBM7j-38UnwWQ" href="uma://-0fnHOusUBmBM7j-38UnwWQ#-0fnHOusUBmBM7j-38UnwWQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WuYl0PlsEe2VUpbnunlhWA" name="realizar_pruebas_de_compatibilidad" guid="_WuYl0PlsEe2VUpbnunlhWA" presentationName="Realizar pruebas de compatibilidad" briefDescription="Las pruebas de compatibilidad buscan solucionar los errores mas comunes de las paginas web o aplicaciones locales." performedBy="_siF_MPlrEe2VUpbnunlhWA" mandatoryInput="_xDl0cPlrEe2VUpbnunlhWA" output="_xDl0cPlrEe2VUpbnunlhWA" additionallyPerformedBy="_d-um8PlsEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_YubyAPlsEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-z14rFJxOSaIoVXdPpb8vwA" href="uma://-z14rFJxOSaIoVXdPpb8vwA#-z14rFJxOSaIoVXdPpb8vwA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZGKVgPlsEe2VUpbnunlhWA" name="realizar_pruebas_de_rendimiento" guid="_ZGKVgPlsEe2VUpbnunlhWA" presentationName="Realizar pruebas de rendimiento" briefDescription="Las pruebas de rendimiento de software se definen como un análisis de comprobación del funcionamiento del sistema frente a múltiples escenarios de ensayo." performedBy="_siF_MPlrEe2VUpbnunlhWA" output="_xDl0cPlrEe2VUpbnunlhWA" additionallyPerformedBy="_d-um8PlsEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_alL4QPlsEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-8ae0Zk9bwT5D2T8njL5V3A" href="uma://-8ae0Zk9bwT5D2T8njL5V3A#-8ae0Zk9bwT5D2T8njL5V3A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_d-um8PlsEe2VUpbnunlhWA" name="desarrollador_backend" guid="_d-um8PlsEe2VUpbnunlhWA" presentationName="Desarrollador BackEnd" briefDescription="Es el encargado de desarrollar y conectar toda la actividad de una web o aplicación con el servidor y sus bases de datos">
+            <methodElementProperty xmi:id="_loVcoPlsEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-TLyiSTnVxo6TjO_npOqcOw" href="uma://-TLyiSTnVxo6TjO_npOqcOw#-TLyiSTnVxo6TjO_npOqcOw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6lInUPkXEe2wNP29IlE1iA" name="consulta_de_experiencia" guid="_6lInUPkXEe2wNP29IlE1iA" presentationName="Consulta de experiencia" briefDescription="En esta actividad se busca obtener un feedback de algunos usuarios, con el fin de obtener mejoras o cambios a realiza antes del despliegue del producto a produccion.">
+          <methodElementProperty xmi:id="_6ldXcPkXEe2wNP29IlE1iA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_Ct6FQPkYEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_RbAy4PkYEe2wNP29IlE1iA" name="tester_qa" guid="_RbAy4PkYEe2wNP29IlE1iA" presentationName="Tester QA" briefDescription="El tester QA es el rol encargado de realizar pruebas a las aplicaciones realizadas por los desarrolladores." responsibleFor="_x93koPkZEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_vwtwkPkZEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ynvs_dPydzWrr1EdS_lpuA" href="uma://-ynvs_dPydzWrr1EdS_lpuA#-ynvs_dPydzWrr1EdS_lpuA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_x93koPkZEe2wNP29IlE1iA" name="grafica_de_formulario" guid="_x93koPkZEe2wNP29IlE1iA" presentationName="Grafica de formulario" briefDescription="En la grafica de formulario se obtiene la informacion de una encuesta realizada a usuarios.">
+            <methodElementProperty xmi:id="_XmhoAPkaEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-EEvZ_16rWDJ7ghNEwtIX6g" href="uma://-EEvZ_16rWDJ7ghNEwtIX6g#-EEvZ_16rWDJ7ghNEwtIX6g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_q5q0YPlhEe2VUpbnunlhWA" name="testear_objeto_ejecutable_personalizado_y_parametrizado" guid="_q5q0YPlhEe2VUpbnunlhWA" presentationName="Testear objeto ejecutable personalizado y parametrizado" briefDescription="Esta tarea busca realizar pruebas a el proyecto con un prototipo y a un grupo de usuarios." performedBy="_RbAy4PkYEe2wNP29IlE1iA" output="_x93koPkZEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_JArEMPliEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-cptdQMBL9oS-ABCkMCXTng" href="uma://-cptdQMBL9oS-ABCkMCXTng#-cptdQMBL9oS-ABCkMCXTng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hNWqoPliEe2VUpbnunlhWA" name="llenar_formulario_de_experiencia" guid="_hNWqoPliEe2VUpbnunlhWA" presentationName="Llenar formulario de experiencia" briefDescription="El formulario de experiencia es la tarea siguiente al testeo del ejecutable personalizado, en este los datos obtenidos se procesan en un formulario y de esta manera se pueden analizar." performedBy="_RbAy4PkYEe2wNP29IlE1iA" mandatoryInput="_x93koPkZEe2wNP29IlE1iA" output="_x93koPkZEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_9M1NQPliEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-cvMlas21ntTsi-cqN7EByg" href="uma://-cvMlas21ntTsi-cqN7EByg#-cvMlas21ntTsi-cqN7EByg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DOuTUPkYEe2wNP29IlE1iA" name="revision_de_la_grafica" guid="_DOuTUPkYEe2wNP29IlE1iA" presentationName="Revision de la grafica" briefDescription="En esta actividad se busca analizar los datos obtenidos en la prueba de experiencia de los usuarios, todo esto con el fin de realizar el proceso de toma de decisiones.">
+          <methodElementProperty xmi:id="_DPCcYPkYEe2wNP29IlE1iA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_JqCJ4PkYEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_gROkIPljEe2VUpbnunlhWA" name="gerente_del_proyecto" guid="_gROkIPljEe2VUpbnunlhWA" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores" responsibleFor="_j94cEPljEe2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_gxpJkPljEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-TD-kSFoj6EleteoIqoR-2Q" href="uma://-TD-kSFoj6EleteoIqoR-2Q#-TD-kSFoj6EleteoIqoR-2Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_j94cEPljEe2VUpbnunlhWA" name="informe_de_proyecto" guid="_j94cEPljEe2VUpbnunlhWA" presentationName="Informe de proyecto" briefDescription="El informe del proyecto se mencionan posibles cambios o mejoras respecto al resultado de la consulta de experiencia.">
+            <methodElementProperty xmi:id="_DbpDcPlkEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-oFPOTexUpuYebuGldxpTbw" href="uma://-oFPOTexUpuYebuGldxpTbw#-oFPOTexUpuYebuGldxpTbw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_IcdR8PlkEe2VUpbnunlhWA" name="analizar_la_grafica_con_los_resultados_de_los_formularios" guid="_IcdR8PlkEe2VUpbnunlhWA" presentationName="Analizar la grafica con los resultados de los formularios" briefDescription="La tarea de analizar la grafica se realiza con el fin de poder tomar deciones en cuestion de las mejoras y cambios que se pueden realizar a la aplicacion." performedBy="_gROkIPljEe2VUpbnunlhWA" mandatoryInput="_x93koPkZEe2wNP29IlE1iA" output="_j94cEPljEe2VUpbnunlhWA" additionallyPerformedBy="_RbAy4PkYEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_MUFDwPlkEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-claICuOh4ZIw2n0fVUK9mA" href="uma://-claICuOh4ZIw2n0fVUK9mA#-claICuOh4ZIw2n0fVUK9mA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7ZO2wPlkEe2VUpbnunlhWA" name="realizar_documento_con_mejoras_y_cambios" guid="_7ZO2wPlkEe2VUpbnunlhWA" presentationName="Realizar documento con mejoras y cambios" briefDescription="El documento que se genero con anterioridad se establece como un informe general de los cambios que se pueden realizar dentro de la aplicacion." performedBy="_gROkIPljEe2VUpbnunlhWA" mandatoryInput="_j94cEPljEe2VUpbnunlhWA" output="_j94cEPljEe2VUpbnunlhWA" additionallyPerformedBy="_RbAy4PkYEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_WHvgwPllEe2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-venVvijLKT31TgVqcedb2Q" href="uma://-venVvijLKT31TgVqcedb2Q#-venVvijLKT31TgVqcedb2Q"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_srE5XfjtEe2wNP29IlE1iA" name="CapabilityPatterns" guid="_srE5XfjtEe2wNP29IlE1iA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_srE5XvjtEe2wNP29IlE1iA" name="DeliveryProcesses" guid="_srE5XvjtEe2wNP29IlE1iA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_srE5X_jtEe2wNP29IlE1iA" name="ProcessContributions" guid="_srE5X_jtEe2wNP29IlE1iA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

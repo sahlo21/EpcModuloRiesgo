@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fcTqrxMjy6OOdAubdmg3kw" name=",_r6PNEPj_Ee2wNP29IlE1iA" guid="-fcTqrxMjy6OOdAubdmg3kw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T19:23:59.365-0500" changeDescription="Esta version contiene toda la informacion y relaciones de la tarea." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de realizar la documentacion se basa en la creacion de la arquitectura del documento de software, es decir, se&#xD;
+    realiza la arquitectura de software, y por ende se realizan los diagramas y documentos necesarios.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_rhlAAPkAEe2wNP29IlE1iA" name="Analizar la informacion" guid="_rhlAAPkAEe2wNP29IlE1iA">
+    <sectionDescription>Luego de obtener toda la informacion se analiza esta y se obtiene la necesaria para empezar a realizar el proceso de&#xD;
+arquitectura de software.</sectionDescription>
+  </sections>
+  <sections xmi:id="_3L-xoPkAEe2wNP29IlE1iA" name="Desarrollar la arquitectura" guid="_3L-xoPkAEe2wNP29IlE1iA">
+    <sectionDescription>&lt;p>&#xD;
+    En este paso se empieza a desarrollar la arquitectura del software, es decir, se empieza a realizar las reglas de&#xD;
+    negocio, diagramas de caso de uso, requisitos y los diversos diagramas como lo son el espina de pescado y diagrama de&#xD;
+    parapeto.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>El proposito de esta actividad es realizar el proceso de la arquitectura de software.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

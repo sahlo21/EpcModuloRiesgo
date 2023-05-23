@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VPa7jmJ5pSg6VokIjFjeRA" name="new_artifact,_xDl0cPlrEe2VUpbnunlhWA" guid="-VPa7jmJ5pSg6VokIjFjeRA" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T08:17:24.169-0500" changeDescription="Version de toda la documentacion del artefacto" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    El documento de pruebas no funcionales se basa en un informe detallado sobre los cambios o mejoras que se pueden&#xD;
+    realizar al proyecto.&#xD;
+&lt;/p></mainDescription>
+  <purpose>El proposito de este artefacto es guiar los cambios y mejoras al sistema.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

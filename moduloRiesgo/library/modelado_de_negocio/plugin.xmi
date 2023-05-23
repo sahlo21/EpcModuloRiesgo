@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_J-XUkPjrEe2wNP29IlE1iA" guid="_J-XUkPjrEe2wNP29IlE1iA">
+    <resourceDescriptors xmi:id="_97RKkPj0Ee2wNP29IlE1iA" id="-L-Dy3fMMGWXPD7NVsFXhRQ" uri="roles/gerente_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_Az69Qfj2Ee2wNP29IlE1iA" id="-WJDMaHxUsqhvIbJpBHHW_A" uri="tasks/investigar_el_equipo.xmi"/>
+    <resourceDescriptors xmi:id="_8q7SIfj2Ee2wNP29IlE1iA" id="-zNEebza1Cng17GZqQs21Kw" uri="tasks/asignar_las_funciones.xmi"/>
+    <resourceDescriptors xmi:id="_ou5MEPj3Ee2wNP29IlE1iA" id="-JCIfolgLp0oF_Ve0s8_cuw" uri="workproducts/brief_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="__Ue44Pj3Ee2wNP29IlE1iA" id="-9SQuGCg6SGSmx4Lg59Dyxg" uri="roles/gerente_del_proyecto%202.xmi"/>
+    <resourceDescriptors xmi:id="_AzJnkPj-Ee2wNP29IlE1iA" id="-F6ZVKHDIcVKkRwAqV5Pusg" uri="roles/arquitecto.xmi"/>
+    <resourceDescriptors xmi:id="_nr9EMPj-Ee2wNP29IlE1iA" id="-YXt9HkB2GEZWwYpNnQdvQA" uri="workproducts/documento_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_LKKpQPj_Ee2wNP29IlE1iA" id="-NTi0nUvYwTQKcDAWqFVxVQ" uri="tasks/investigar_sobre_el_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_Vl9dQvkAEe2wNP29IlE1iA" id="-fcTqrxMjy6OOdAubdmg3kw" uri="tasks/realizar_documentacion.xmi"/>
+    <resourceDescriptors xmi:id="_c4-icPkBEe2wNP29IlE1iA" id="--xX2RfPNOekEzH8fEzpfhA" uri="roles/gerente_del_proyecto%203.xmi"/>
+    <resourceDescriptors xmi:id="_dX9kgPkBEe2wNP29IlE1iA" id="-JaBfjkuaJ-3EIvp8Dx_EfQ" uri="roles/arquitecto%202.xmi"/>
+    <resourceDescriptors xmi:id="_AjBuofkDEe2wNP29IlE1iA" id="-SB9wA48_YVdNNJCQPcwOUw" uri="workproducts/acta_de_inicio_de_ejecucion.xmi"/>
+    <resourceDescriptors xmi:id="_P6HigPkFEe2wNP29IlE1iA" id="-_icSkkGGZFutt27_rbe8fA" uri="tasks/iniciar_el_plan_de_ejecucion.xmi"/>
+    <resourceDescriptors xmi:id="_rs_zkPkFEe2wNP29IlE1iA" id="-SWwZapin3OmP-N0hQ7rQsg" uri="roles/arquitecto%203.xmi"/>
+    <resourceDescriptors xmi:id="_PMGwgPkGEe2wNP29IlE1iA" id="-OuzPLIVSGlJQeYAgMTVevw" uri="workproducts/acta_de_inicio.xmi"/>
+    <resourceDescriptors xmi:id="_4nCWMPkHEe2wNP29IlE1iA" id="-UODSuZKZBs_bPpk3o7qUUw" uri="tasks/revisar_funciones_y_equipo.xmi"/>
+    <resourceDescriptors xmi:id="_65IfMPkIEe2wNP29IlE1iA" id="-_cjcx3qcQksCN6GwPWF-sA" uri="tasks/iniciar_el_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_G-OowPkJEe2wNP29IlE1iA" id="-Z9YiByrysWETRuJ38LkKFQ" uri="roles/arquitecto%204.xmi"/>
+    <resourceDescriptors xmi:id="_G-RFAPkJEe2wNP29IlE1iA" id="-8IOkpk76B5FFBnF6Z2LoIA" uri="roles/gerente_del_proyecto%204.xmi"/>
+    <resourceDescriptors xmi:id="_Lt3yQvkKEe2wNP29IlE1iA" id="-9VP0T9cmJQS0fhzR7B6cVw" uri="workproducts/documento_revision_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_DE6i8PkLEe2wNP29IlE1iA" id="-JRjUV0Em1G1qYNVUG1CoLw" uri="tasks/revisar_el_plan_de_proyectos.xmi"/>
+    <resourceDescriptors xmi:id="_2THO8PkLEe2wNP29IlE1iA" id="-9ZbdkVMcRGyh6cvaRfv-Eg" uri="tasks/realizar_cambios.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_J-WGcPjrEe2wNP29IlE1iA" name="modelado_de_negocio" guid="_J-WGcPjrEe2wNP29IlE1iA" presentationName="modelado de negocio" briefDescription="En esta disciplina se basa en comprender la estructura y dinamica de la organizacion, con el fin de comprender los problemas actuales que se tienen y de esta manera darles las mejores soluciones y comprender de este modo los procesos" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T16:54:19.048-0500" changeDescription="Version final del modelado de negocio, donde se tienen todas las actividades, roles y tareas actualizadas" version="Version final">
+    <methodElementProperty xmi:id="_M-xKgPjrEe2wNP29IlE1iA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGcfjrEe2wNP29IlE1iA" name="Content" guid="_J-WGcfjrEe2wNP29IlE1iA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGcvjrEe2wNP29IlE1iA" name="Categories" guid="_J-WGcvjrEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGc_jrEe2wNP29IlE1iA" name="Domains" guid="_J-WGc_jrEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGdPjrEe2wNP29IlE1iA" name="Disciplines" guid="_J-WGdPjrEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGdfjrEe2wNP29IlE1iA" name="RoleSets" guid="_J-WGdfjrEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGdvjrEe2wNP29IlE1iA" name="WP Types" guid="_J-WGdvjrEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGd_jrEe2wNP29IlE1iA" name="Tools" guid="_J-WGd_jrEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGePjrEe2wNP29IlE1iA" name="StandardCategories" guid="_J-WGePjrEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGefjrEe2wNP29IlE1iA" name="CustomCategories" guid="_J-WGefjrEe2wNP29IlE1iA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGevjrEe2wNP29IlE1iA" name="Hidden" guid="_J-WGevjrEe2wNP29IlE1iA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_J-WGe_jrEe2wNP29IlE1iA" name="Custom Categories" guid="_J-WGe_jrEe2wNP29IlE1iA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-WGfPjrEe2wNP29IlE1iA" name="CoreContent" guid="_J-WGfPjrEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZVxxMPjwEe2wNP29IlE1iA" name="asignacion_de_labores_y_funciones" guid="_ZVxxMPjwEe2wNP29IlE1iA" presentationName="Asignacion de labores y funciones" briefDescription="Esta actividad se basa en la asignacion de labores y funciones al equipo de trabajo que se tenga, es decir, se generan los roles a partir de las necesidades y equipo del que se dispone">
+          <methodElementProperty xmi:id="_ZVxxMfjwEe2wNP29IlE1iA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_5Ioe0PjwEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_6Spa4PjwEe2wNP29IlE1iA" name="gerente_del_proyecto" guid="_6Spa4PjwEe2wNP29IlE1iA" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores" responsibleFor="_uFaMgPjxEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_sTos4PjxEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-L-Dy3fMMGWXPD7NVsFXhRQ" href="uma://-L-Dy3fMMGWXPD7NVsFXhRQ#-L-Dy3fMMGWXPD7NVsFXhRQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XLt38PjxEe2wNP29IlE1iA" name="investigar_el_equipo" guid="_XLt38PjxEe2wNP29IlE1iA" presentationName="Investigar el equipo" briefDescription="La tarea de investigar el equipo cumple la funcion de obtener de mejor manera las habilidades y conocimientos que tienen los participantes del proyecto, esto con el fin de asignar de mejor manera las tareas y roles" performedBy="_6Spa4PjwEe2wNP29IlE1iA" output="_uFaMgPjxEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_sTsXQPjxEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-WJDMaHxUsqhvIbJpBHHW_A" href="uma://-WJDMaHxUsqhvIbJpBHHW_A#-WJDMaHxUsqhvIbJpBHHW_A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_h57HEPjxEe2wNP29IlE1iA" name="asignar_las_funciones" guid="_h57HEPjxEe2wNP29IlE1iA" presentationName="Asignar las funciones" briefDescription="Luego de realizar la tarea anterior el asignar cumple la funcion de dar indicaciones de las obligaciones a los participantes del equipo de trabajo" performedBy="_6Spa4PjwEe2wNP29IlE1iA" mandatoryInput="_uFaMgPjxEe2wNP29IlE1iA" output="_uFaMgPjxEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_sTwosPjxEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-zNEebza1Cng17GZqQs21Kw" href="uma://-zNEebza1Cng17GZqQs21Kw#-zNEebza1Cng17GZqQs21Kw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uFaMgPjxEe2wNP29IlE1iA" name="brief_del_proyecto" guid="_uFaMgPjxEe2wNP29IlE1iA" presentationName="Brief del proyecto" briefDescription="El brief del proyecto es el documento en el cual se tiene que personas participaran en el proyecto, asi mismo las funciones de estos dentro del proyecto y las tareas que van a realizar">
+            <methodElementProperty xmi:id="_75eZUPjxEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-JCIfolgLp0oF_Ve0s8_cuw" href="uma://-JCIfolgLp0oF_Ve0s8_cuw#-JCIfolgLp0oF_Ve0s8_cuw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v5IlMPj3Ee2wNP29IlE1iA" name="inicio_del_proyecto" guid="_v5IlMPj3Ee2wNP29IlE1iA" presentationName="Inicio del proyecto" briefDescription="En esta actividad se da inicio al desarrollo formal del proyecto, es decir, se empieza el desarrollo de la arquitectura, desarrollo de la aplicacion, testeo y la implementacion y despliegue.">
+          <methodElementProperty xmi:id="_v5IlMfj3Ee2wNP29IlE1iA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_71YUwPj3Ee2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="__T4b8Pj3Ee2wNP29IlE1iA" name="gerente_del_proyecto" guid="__T4b8Pj3Ee2wNP29IlE1iA" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores" responsibleFor="_t0dPUPkFEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="__UccoPj3Ee2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-9SQuGCg6SGSmx4Lg59Dyxg" href="uma://-9SQuGCg6SGSmx4Lg59Dyxg#-9SQuGCg6SGSmx4Lg59Dyxg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_rsVFMPkFEe2wNP29IlE1iA" name="arquitecto" guid="_rsVFMPkFEe2wNP29IlE1iA" presentationName="Arquitecto" briefDescription="El arquitecto del proyecto es el encargado de realizar la documentacion pertinente del proyecto.">
+            <methodElementProperty xmi:id="_rs9-YPkFEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-SWwZapin3OmP-N0hQ7rQsg" href="uma://-SWwZapin3OmP-N0hQ7rQsg#-SWwZapin3OmP-N0hQ7rQsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_t0dPUPkFEe2wNP29IlE1iA" name="acta_de_inicio" guid="_t0dPUPkFEe2wNP29IlE1iA" presentationName="Acta de inicio" briefDescription="El acta de inicio se encarga de dar inicio a la parte del desarrollo de la arquitectura del software.">
+            <methodElementProperty xmi:id="_PMFiYPkGEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-OuzPLIVSGlJQeYAgMTVevw" href="uma://-OuzPLIVSGlJQeYAgMTVevw#-OuzPLIVSGlJQeYAgMTVevw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_YpB98PkGEe2wNP29IlE1iA" name="revisar_funciones_y_equipo" guid="_YpB98PkGEe2wNP29IlE1iA" presentationName="Revisar funciones y equipo" briefDescription="Esta tarea se encarga de realizar una revision sobre las funciones y el equipo de trabajo con el fin de evitar errores en futuros procesos de la arquitectura de software." performedBy="__T4b8Pj3Ee2wNP29IlE1iA" mandatoryInput="_uFaMgPjxEe2wNP29IlE1iA" output="_t0dPUPkFEe2wNP29IlE1iA" additionallyPerformedBy="_rsVFMPkFEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_4nBIEPkHEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-UODSuZKZBs_bPpk3o7qUUw" href="uma://-UODSuZKZBs_bPpk3o7qUUw#-UODSuZKZBs_bPpk3o7qUUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5Mi3APkHEe2wNP29IlE1iA" name="iniciar_el_proyecto" guid="_5Mi3APkHEe2wNP29IlE1iA" presentationName="Iniciar el proyecto" briefDescription="La tarea de Iniciar el proyecto se basa en dar luz verde a la creacion de la arquitectura de software." performedBy="__T4b8Pj3Ee2wNP29IlE1iA" mandatoryInput="_t0dPUPkFEe2wNP29IlE1iA" output="_t0dPUPkFEe2wNP29IlE1iA" additionallyPerformedBy="_rsVFMPkFEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_65HREPkIEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-_cjcx3qcQksCN6GwPWF-sA" href="uma://-_cjcx3qcQksCN6GwPWF-sA#-_cjcx3qcQksCN6GwPWF-sA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DlKHEPj8Ee2wNP29IlE1iA" name="documentacion_del_proyecto" guid="_DlKHEPj8Ee2wNP29IlE1iA" presentationName="Documentacion del proyecto" briefDescription="En esta actividad se realizan toda la arquitectura del software, es decir, se realizar el analisis y diseño de los diversos documentos y diagramas.">
+          <methodElementProperty xmi:id="_DlKHEfj8Ee2wNP29IlE1iA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_K7whMPj8Ee2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ThX2sPj9Ee2wNP29IlE1iA" name="arquitecto" guid="_ThX2sPj9Ee2wNP29IlE1iA" presentationName="Arquitecto" briefDescription="El arquitecto del proyecto es el encargado de realizar la documentacion pertinente del proyecto." responsibleFor="_EbfnQPj-Ee2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_AzIZcPj-Ee2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-F6ZVKHDIcVKkRwAqV5Pusg" href="uma://-F6ZVKHDIcVKkRwAqV5Pusg#-F6ZVKHDIcVKkRwAqV5Pusg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_EbfnQPj-Ee2wNP29IlE1iA" name="documento_del_proyecto" guid="_EbfnQPj-Ee2wNP29IlE1iA" presentationName="Documento del proyecto" briefDescription="El documento del proyecto posee como informacion la arquitectura de software.">
+            <methodElementProperty xmi:id="_J59bEPj-Ee2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-YXt9HkB2GEZWwYpNnQdvQA" href="uma://-YXt9HkB2GEZWwYpNnQdvQA#-YXt9HkB2GEZWwYpNnQdvQA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_q7GgwPj-Ee2wNP29IlE1iA" name="investigar_sobre_el_proyecto" guid="_q7GgwPj-Ee2wNP29IlE1iA" presentationName="Investigar sobre el proyecto" briefDescription="En esta tarea se busca obtener informacion acerca del proyecto a realizar." performedBy="_ThX2sPj9Ee2wNP29IlE1iA" output="_EbfnQPj-Ee2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_wILpoPj-Ee2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-NTi0nUvYwTQKcDAWqFVxVQ" href="uma://-NTi0nUvYwTQKcDAWqFVxVQ#-NTi0nUvYwTQKcDAWqFVxVQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_r6PNEPj_Ee2wNP29IlE1iA" name="realizar_documentacion" guid="_r6PNEPj_Ee2wNP29IlE1iA" presentationName="Realizar documentacion" briefDescription="Luego de investigar acerca del proyecto se realizar el compilado de informacion y se desarrolla la arquitectura." performedBy="_ThX2sPj9Ee2wNP29IlE1iA" mandatoryInput="_EbfnQPj-Ee2wNP29IlE1iA" output="_EbfnQPj-Ee2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_Vl9dQPkAEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-fcTqrxMjy6OOdAubdmg3kw" href="uma://-fcTqrxMjy6OOdAubdmg3kw#-fcTqrxMjy6OOdAubdmg3kw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_MtNQsPj8Ee2wNP29IlE1iA" name="revision_plan_de_proyecto" guid="_MtNQsPj8Ee2wNP29IlE1iA" presentationName="Revision plan de proyecto" briefDescription="En esta actividad se revisan y cambian la documentacion del software, es decir, se revisa toda la arquitectura de software.">
+          <methodElementProperty xmi:id="_MtNQsfj8Ee2wNP29IlE1iA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_X0aOoPj8Ee2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_G9khcPkJEe2wNP29IlE1iA" name="arquitecto" guid="_G9khcPkJEe2wNP29IlE1iA" presentationName="Arquitecto" briefDescription="El arquitecto del proyecto es el encargado de realizar la documentacion pertinente del proyecto." responsibleFor="_EbfnQPj-Ee2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_G-LlcPkJEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Z9YiByrysWETRuJ38LkKFQ" href="uma://-Z9YiByrysWETRuJ38LkKFQ#-Z9YiByrysWETRuJ38LkKFQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_G9khcfkJEe2wNP29IlE1iA" name="gerente_del_proyecto" guid="_G9khcfkJEe2wNP29IlE1iA" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores">
+            <methodElementProperty xmi:id="_G-LlcfkJEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-8IOkpk76B5FFBnF6Z2LoIA" href="uma://-8IOkpk76B5FFBnF6Z2LoIA#-8IOkpk76B5FFBnF6Z2LoIA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_MsaTkPkJEe2wNP29IlE1iA" name="documento_revision_del_proyecto" guid="_MsaTkPkJEe2wNP29IlE1iA" presentationName="Documento revision del proyecto" briefDescription="Luego de realizar la arquitectura de software se encarga la revision de esta.">
+            <methodElementProperty xmi:id="_Lt3yQPkKEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-9VP0T9cmJQS0fhzR7B6cVw" href="uma://-9VP0T9cmJQS0fhzR7B6cVw#-9VP0T9cmJQS0fhzR7B6cVw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MRHpQPkKEe2wNP29IlE1iA" name="revisar_el_plan_de_proyectos" guid="_MRHpQPkKEe2wNP29IlE1iA" presentationName="Revisar el plan de proyectos" briefDescription="Se analiza y revisa la arquitectura de software con el fin de obtener la informacion nueva de la arquitectura." performedBy="_G9khcPkJEe2wNP29IlE1iA" mandatoryInput="_EbfnQPj-Ee2wNP29IlE1iA" output="_MsaTkPkJEe2wNP29IlE1iA" additionallyPerformedBy="_G9khcfkJEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_DE4twPkLEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-JRjUV0Em1G1qYNVUG1CoLw" href="uma://-JRjUV0Em1G1qYNVUG1CoLw#-JRjUV0Em1G1qYNVUG1CoLw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DpE_8PkLEe2wNP29IlE1iA" name="realizar_cambios" guid="_DpE_8PkLEe2wNP29IlE1iA" presentationName="Realizar cambios" briefDescription="Se realizan los cambios que se obtuvieron en la tarea anterior." performedBy="_G9khcPkJEe2wNP29IlE1iA" mandatoryInput="_MsaTkPkJEe2wNP29IlE1iA" output="_MsaTkPkJEe2wNP29IlE1iA" additionallyPerformedBy="_G9khcfkJEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_2TEysPkLEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-9ZbdkVMcRGyh6cvaRfv-Eg" href="uma://-9ZbdkVMcRGyh6cvaRfv-Eg#-9ZbdkVMcRGyh6cvaRfv-Eg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZP3gAPj8Ee2wNP29IlE1iA" name="inicio_de_ejecucion_de_proyecto" guid="_ZP3gAPj8Ee2wNP29IlE1iA" presentationName="Inicio de ejecucion de proyecto" briefDescription="En esta actividad se da inicio a la ejecucion del proyecto general, es decir se da inicio a las demas dependencias.">
+          <methodElementProperty xmi:id="_ZP3gAfj8Ee2wNP29IlE1iA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_fmWg8Pj8Ee2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_c4T0EPkBEe2wNP29IlE1iA" name="gerente_del_proyecto" guid="_c4T0EPkBEe2wNP29IlE1iA" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores" responsibleFor="_SkJnMPkCEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_c46RAPkBEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="--xX2RfPNOekEzH8fEzpfhA" href="uma://--xX2RfPNOekEzH8fEzpfhA#--xX2RfPNOekEzH8fEzpfhA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_dXTdMPkBEe2wNP29IlE1iA" name="arquitecto" guid="_dXTdMPkBEe2wNP29IlE1iA" presentationName="Arquitecto" briefDescription="El arquitecto del proyecto es el encargado de realizar la documentacion pertinente del proyecto.">
+            <methodElementProperty xmi:id="_dX3d4PkBEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-JaBfjkuaJ-3EIvp8Dx_EfQ" href="uma://-JaBfjkuaJ-3EIvp8Dx_EfQ#-JaBfjkuaJ-3EIvp8Dx_EfQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_h1NL4PkBEe2wNP29IlE1iA" name="iniciar_el_plan_de_ejecucion" guid="_h1NL4PkBEe2wNP29IlE1iA" presentationName="Iniciar el plan de ejecucion" briefDescription="La tarea Iniciar el plan de ejecucion se basa en dar inicio a las demas dependencias que se tienen en la metodologia rup." performedBy="_c4T0EPkBEe2wNP29IlE1iA" output="_SkJnMPkCEe2wNP29IlE1iA" additionallyPerformedBy="_dXTdMPkBEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_SDKaAPkCEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-_icSkkGGZFutt27_rbe8fA" href="uma://-_icSkkGGZFutt27_rbe8fA#-_icSkkGGZFutt27_rbe8fA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_SkJnMPkCEe2wNP29IlE1iA" name="acta_de_inicio_de_ejecucion" guid="_SkJnMPkCEe2wNP29IlE1iA" presentationName="Acta de inicio de ejecucion" briefDescription="Este artefacto se encarga de dejar claro el inicio del proceso del desarrollo del proyecto en cuestion a analisis, requisitos, implementacion y test.">
+            <methodElementProperty xmi:id="_Ai8PEPkDEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-SB9wA48_YVdNNJCQPcwOUw" href="uma://-SB9wA48_YVdNNJCQPcwOUw#-SB9wA48_YVdNNJCQPcwOUw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_J-WGffjrEe2wNP29IlE1iA" name="CapabilityPatterns" guid="_J-WGffjrEe2wNP29IlE1iA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_J-WGfvjrEe2wNP29IlE1iA" name="DeliveryProcesses" guid="_J-WGfvjrEe2wNP29IlE1iA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_J-WGf_jrEe2wNP29IlE1iA" name="ProcessContributions" guid="_J-WGf_jrEe2wNP29IlE1iA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

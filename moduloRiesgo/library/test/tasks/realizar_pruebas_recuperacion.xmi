@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0fnHOusUBmBM7j-38UnwWQ" name=",_UlC6wPlsEe2VUpbnunlhWA" guid="-0fnHOusUBmBM7j-38UnwWQ" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T08:44:00.767-0500" changeDescription="Documentacion y relaciones finalizadas." version="Version final">
+  <mainDescription>La tarea se basa en generar diversos errores a la aplicacion en funcionamiento, esto con el fin de que la aplicacion sufra&#xD;
+un colapso o un error y se evidencie el comportamiento de esta ante estas posibles amenazas.</mainDescription>
+  <sections xmi:id="_WDG3YPlwEe2VUpbnunlhWA" name="Seleccionar las pruebas" guid="_WDG3YPlwEe2VUpbnunlhWA"/>
+  <sections xmi:id="_W4xUEPlwEe2VUpbnunlhWA" name="Seleccionar los errores a cometer" guid="_W4xUEPlwEe2VUpbnunlhWA"/>
+  <sections xmi:id="_YCtXoPlwEe2VUpbnunlhWA" name="Realizar las pruebas" guid="_YCtXoPlwEe2VUpbnunlhWA"/>
+  <sections xmi:id="_Y1XjoPlwEe2VUpbnunlhWA" name="Documentar resultados" guid="_Y1XjoPlwEe2VUpbnunlhWA"/>
+  <purpose>El proposito de las pruebas de recuperacion es estresar el sistema con el fin de obtener diversos fallos y ver como este se&#xD;
+recupera y como termina luego de los errores.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

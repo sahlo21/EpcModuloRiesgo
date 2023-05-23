@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5JWyi4XIosiYi3yJwa07UA" name=",_Sb0kcPlsEe2VUpbnunlhWA" guid="-5JWyi4XIosiYi3yJwa07UA" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T08:24:55.119-0500" changeDescription="Documentacion y relaciones completas para la tarea." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de realizar la documentacion de resultados se basa en la creacion de un informe detallado con los cambios que&#xD;
+    se van a realizar en la aplicacion.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_hITKgPltEe2VUpbnunlhWA" name="Compilar toda la informacion" guid="_hITKgPltEe2VUpbnunlhWA"/>
+  <sections xmi:id="_iFqKoPltEe2VUpbnunlhWA" name="Desarrollar el documento" guid="_iFqKoPltEe2VUpbnunlhWA"/>
+  <sections xmi:id="_jP03sPltEe2VUpbnunlhWA" name="Enviar el documento a los desarrolladores" guid="_jP03sPltEe2VUpbnunlhWA"/>
+  <purpose>El proposito de esta tarea es compilar la informacion recopilada en un informe detallado.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

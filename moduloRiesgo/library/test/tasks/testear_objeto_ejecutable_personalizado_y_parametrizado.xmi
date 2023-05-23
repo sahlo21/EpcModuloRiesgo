@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cptdQMBL9oS-ABCkMCXTng" name=",_q5q0YPlhEe2VUpbnunlhWA" guid="-cptdQMBL9oS-ABCkMCXTng" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T07:03:53.161-0500" changeDescription="Version final de la tarea con todos los datos y relaciones." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de testear un objeto ejecutable personalizado y parametrizado se basa en realizar una prueba a un grupo de&#xD;
+    usuarios seleccionados, con el fin de obtener un feedback y de esta manera realizar cambios, mejoras y correcciones al&#xD;
+    producto software de nuestro proyecto.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_JjHC4PliEe2VUpbnunlhWA" name="Realizar el prototipo del sistema" guid="_JjHC4PliEe2VUpbnunlhWA">
+    <sectionDescription>Se realiza un ejecutable a modo de prototipo de nuestro producto software, este cumple con la funcion principal pero no&#xD;
+sera el que se suba a produccion.</sectionDescription>
+  </sections>
+  <sections xmi:id="_RyJg4PliEe2VUpbnunlhWA" name="Seleccionar los usuarios" guid="_RyJg4PliEe2VUpbnunlhWA">
+    <sectionDescription>Luego de tener el prototipo se buscan usuarios que puedan realizar la prueba y que cumplan con los requisitos para estas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_QLoPAPliEe2VUpbnunlhWA" name="Realizar la prueba" guid="_QLoPAPliEe2VUpbnunlhWA">
+    <sectionDescription>Se realiza la prueba con los usuarios y se obtiene el feedback de estos.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es obtener el nivel de aceptacion y usabilidad de un prototipo de la aplicacion software.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

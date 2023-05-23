@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8ae0Zk9bwT5D2T8njL5V3A" name=",_ZGKVgPlsEe2VUpbnunlhWA" guid="-8ae0Zk9bwT5D2T8njL5V3A" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T08:35:19.493-0500" changeDescription="Documentacion de la tarea y las relaciones de esta con los roles y artefactos" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    Las pruebas de rendimiento se basan en realizar procesos en diversos escenarios o entornos, es decir, se basa en&#xD;
+    observa el rendimiento que se tiene en los procesos, ademas de esto fijarse en la cantidad de peticiones que recibe el&#xD;
+    proceso.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_sGs8UPluEe2VUpbnunlhWA" name="Selecionar las pruebas" guid="_sGs8UPluEe2VUpbnunlhWA"/>
+  <sections xmi:id="_s3NzQPluEe2VUpbnunlhWA" name="Seleccionar los entorno " guid="_s3NzQPluEe2VUpbnunlhWA"/>
+  <sections xmi:id="_uLxycPluEe2VUpbnunlhWA" name="Realizar las pruebas en los entornos" guid="_uLxycPluEe2VUpbnunlhWA"/>
+  <sections xmi:id="_vZYOAPluEe2VUpbnunlhWA" name="Documentar los resultados" guid="_vZYOAPluEe2VUpbnunlhWA"/>
+  <purpose>El proposito de las pruebas de rendimiento es observar el funcionamiento del sistema frente a diversos escenarios.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

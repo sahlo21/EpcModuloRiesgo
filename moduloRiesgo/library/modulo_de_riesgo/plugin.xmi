@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_NsIqAPjvEe2wNP29IlE1iA" guid="_NsIqAPjvEe2wNP29IlE1iA">
+    <resourceDescriptors xmi:id="_Gs9KMfkXEe2wNP29IlE1iA" id="-5FK-5WYGOsq-pBdeod0YRw" uri="workproducts/introduccion.xmi"/>
+    <resourceDescriptors xmi:id="_Nj8QIfkXEe2wNP29IlE1iA" id="-ox5wBi3WpD7VAZVjl3I3PA" uri="customcategories/introduccion.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_NsG00PjvEe2wNP29IlE1iA" name="modulo_de_riesgo" guid="_NsG00PjvEe2wNP29IlE1iA" presentationName="modulo de riesgo" briefDescription="El modulo de riesgo cumple la funcion de realizar notificaciones y analizar los posibles riesgos que se tengan dentro del proyecto de la constructora, ademas de esto se encarga de habilitar y deshabilitar empleados segun la necesidad de estos." authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T17:23:09.782-0500" changeDescription="Esta version contiene toda la informacion del proyecto realizado en el semestre, asi mismo, la relacion con las demas dependencias." version="Version final">
+    <methodElementProperty xmi:id="_O4XMkPjvEe2wNP29IlE1iA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsG00fjvEe2wNP29IlE1iA" name="Content" guid="_NsG00fjvEe2wNP29IlE1iA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsG00vjvEe2wNP29IlE1iA" name="Categories" guid="_NsG00vjvEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsG00_jvEe2wNP29IlE1iA" name="Domains" guid="_NsG00_jvEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsG01PjvEe2wNP29IlE1iA" name="Disciplines" guid="_NsG01PjvEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsHb4PjvEe2wNP29IlE1iA" name="RoleSets" guid="_NsHb4PjvEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsHb4fjvEe2wNP29IlE1iA" name="WP Types" guid="_NsHb4fjvEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsHb4vjvEe2wNP29IlE1iA" name="Tools" guid="_NsHb4vjvEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsHb4_jvEe2wNP29IlE1iA" name="StandardCategories" guid="_NsHb4_jvEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsHb5PjvEe2wNP29IlE1iA" name="CustomCategories" guid="_NsHb5PjvEe2wNP29IlE1iA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsHb5fjvEe2wNP29IlE1iA" name="Hidden" guid="_NsHb5fjvEe2wNP29IlE1iA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NsHb5vjvEe2wNP29IlE1iA" name="Custom Categories" guid="_NsHb5vjvEe2wNP29IlE1iA" categorizedElements="_HXhuAPkTEe2wNP29IlE1iA"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_HXhuAPkTEe2wNP29IlE1iA" name="vista_de_procesos" guid="_HXhuAPkTEe2wNP29IlE1iA" presentationName="vista de procesos" categorizedElements="_V2SdoPkTEe2wNP29IlE1iA _BwNY0PkWEe2wNP29IlE1iA _DfxR8PkWEe2wNP29IlE1iA _GfZEwPkWEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_VffHMPkTEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_V2SdoPkTEe2wNP29IlE1iA" name="introduccion" guid="_V2SdoPkTEe2wNP29IlE1iA" presentationName="introduccion" briefDescription="Introduccion del proyecto y la pagina web" categorizedElements="_ZaKssPkWEe2wNP29IlE1iA">
+            <methodElementProperty xmi:id="_CEKhgPkUEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ox5wBi3WpD7VAZVjl3I3PA" href="uma://-ox5wBi3WpD7VAZVjl3I3PA#-ox5wBi3WpD7VAZVjl3I3PA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_BwNY0PkWEe2wNP29IlE1iA" name="roles" guid="_BwNY0PkWEe2wNP29IlE1iA" presentationName="Roles">
+            <methodElementProperty xmi:id="_Co-z4PkWEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_srE5UPjtEe2wNP29IlE1iA#_RbAy4PkYEe2wNP29IlE1iA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_J-WGcPjrEe2wNP29IlE1iA#_6Spa4PjwEe2wNP29IlE1iA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Role" href="uma://_J-WGcPjrEe2wNP29IlE1iA#_ThX2sPj9Ee2wNP29IlE1iA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_DfxR8PkWEe2wNP29IlE1iA" name="tareas" guid="_DfxR8PkWEe2wNP29IlE1iA" presentationName="Tareas">
+            <methodElementProperty xmi:id="_EgRssPkWEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_GfZEwPkWEe2wNP29IlE1iA" name="artefactos" guid="_GfZEwPkWEe2wNP29IlE1iA" presentationName="Artefactos">
+            <methodElementProperty xmi:id="_HT0yYPkWEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NsHb5_jvEe2wNP29IlE1iA" name="CoreContent" guid="_NsHb5_jvEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PWQXwPkWEe2wNP29IlE1iA" name="introduccion" guid="_PWQXwPkWEe2wNP29IlE1iA" presentationName="Introduccion" briefDescription="El proyecto del modulo de gestion del riesgo se encarga de controlar las posibles amenazas que se tienen dentro de una constructora">
+          <methodElementProperty xmi:id="_PWZhsPkWEe2wNP29IlE1iA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_X9esQPkWEe2wNP29IlE1iA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZaKssPkWEe2wNP29IlE1iA" name="introduccion" guid="_ZaKssPkWEe2wNP29IlE1iA" presentationName="Introduccion" briefDescription="El modulo de gestion de riesgo se encarga de evitar problemas a futuro dentro de las organizaciones.">
+            <methodElementProperty xmi:id="_Gs4RsPkXEe2wNP29IlE1iA" name="me_edited" value="true"/>
+            <presentation xmi:id="-5FK-5WYGOsq-pBdeod0YRw" href="uma://-5FK-5WYGOsq-pBdeod0YRw#-5FK-5WYGOsq-pBdeod0YRw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NsHb6PjvEe2wNP29IlE1iA" name="CapabilityPatterns" guid="_NsHb6PjvEe2wNP29IlE1iA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NsHb6fjvEe2wNP29IlE1iA" name="DeliveryProcesses" guid="_NsHb6fjvEe2wNP29IlE1iA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NsHb6vjvEe2wNP29IlE1iA" name="ProcessContributions" guid="_NsHb6vjvEe2wNP29IlE1iA"/>
+    <bases href="uma://_jBQU0PjsEe2wNP29IlE1iA#_jBQU0PjsEe2wNP29IlE1iA"/>
+    <bases href="uma://_8aYq0PjtEe2wNP29IlE1iA#_8aYq0PjtEe2wNP29IlE1iA"/>
+    <bases href="uma://_eC0PcPjtEe2wNP29IlE1iA#_eC0PcPjtEe2wNP29IlE1iA"/>
+    <bases href="uma://_J-WGcPjrEe2wNP29IlE1iA#_J-WGcPjrEe2wNP29IlE1iA"/>
+    <bases href="uma://_D-MFYPjsEe2wNP29IlE1iA#_D-MFYPjsEe2wNP29IlE1iA"/>
+    <bases href="uma://_srE5UPjtEe2wNP29IlE1iA#_srE5UPjtEe2wNP29IlE1iA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

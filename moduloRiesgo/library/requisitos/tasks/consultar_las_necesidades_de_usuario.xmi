@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OzL2iAl9QnCriFZpZOeu_A" name=",_Sc3-QPl1Ee2VUpbnunlhWA" guid="-OzL2iAl9QnCriFZpZOeu_A" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T09:25:00.112-0500" changeDescription="Tarea con toda la documentacion y relaciones asignadas y funcionales." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de consultar las necesidades de usuario se basa en obtener informacion a traves de preguntas a los interesados&#xD;
+    por el proyecto o stakeholders, esto con el fin de poder realizar los requisitos funcionales de manera optima y sin&#xD;
+    errores futuros.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_7oBQ8Pl1Ee2VUpbnunlhWA" name="Entrar a las reuniones" guid="_7oBQ8Pl1Ee2VUpbnunlhWA"/>
+  <sections xmi:id="_-w4fUPl1Ee2VUpbnunlhWA" name="Preguntar a los stakeholders las necesidades" guid="_-w4fUPl1Ee2VUpbnunlhWA"/>
+  <sections xmi:id="_AZ5rkPl2Ee2VUpbnunlhWA" name="Escribir las necesidades" guid="_AZ5rkPl2Ee2VUpbnunlhWA"/>
+  <sections xmi:id="_BfdlcPl2Ee2VUpbnunlhWA" name="Notificar sobre las novedades en necesidades" guid="_BfdlcPl2Ee2VUpbnunlhWA"/>
+  <purpose>El proposito de esta tarea es obtener las necesidades de los usuarios para el proyecto y aplicacion.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

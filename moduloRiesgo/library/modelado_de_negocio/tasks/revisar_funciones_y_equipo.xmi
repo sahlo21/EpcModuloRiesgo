@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UODSuZKZBs_bPpk3o7qUUw" name=",_YpB98PkGEe2wNP29IlE1iA" guid="-UODSuZKZBs_bPpk3o7qUUw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T20:12:07.965-0500" changeDescription="Version con toda la informacion y relaciones." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de revisar funciones y equipo se realiza con el fin de evitar arrastrar errores a otras actividades, es decir,&#xD;
+    si se tiene un error en la actividad anterior se notifica con el fin de realizar una arquitectura de software errada.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_hYH_kPkHEe2wNP29IlE1iA" name="Analizar la informacion de la actividad anterior" guid="_hYH_kPkHEe2wNP29IlE1iA">
+    <sectionDescription>En este paso se analiza toda la informacion que se obtuvo en la actividad anterior, con el fin de verificar que esta sea&#xD;
+correcta o evidenciar los errores que se tengan.</sectionDescription>
+  </sections>
+  <sections xmi:id="_nSj9sPkHEe2wNP29IlE1iA" name="Gestionar si se tiene errores" guid="_nSj9sPkHEe2wNP29IlE1iA">
+    <sectionDescription>Si la actividad anterior tiene errores se notifica y modifica con el fin de tener informacion valida, si por el contrario&#xD;
+no tiene errores se procede a realizar la siguiente actividad.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es evitar errores con respecto a actividades realizadas con anterioridad.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

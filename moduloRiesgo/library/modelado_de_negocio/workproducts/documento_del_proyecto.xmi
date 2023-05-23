@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YXt9HkB2GEZWwYpNnQdvQA" name="new_artifact,_EbfnQPj-Ee2wNP29IlE1iA" guid="-YXt9HkB2GEZWwYpNnQdvQA" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T19:11:13.810-0500" changeDescription="Esta version contiene toda la informacion del documento del proyecto" version="Version final">
+  <mainDescription>El documento del proyecto tiene en su interior toda la arquitectura del software, es decir, tiene los diagramas de caso de&#xD;
+uso, el diagrama de parapeto, las reglas de negocio, presupuesto, requisitos, entre otros... Este documento tiene como&#xD;
+objetivo dejar claro el alcance y manera de funcionamiento del proyecto.</mainDescription>
+  <purpose>El proposito del documento del proyecto es tener una guia detallada del proyecto a desarrollar.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

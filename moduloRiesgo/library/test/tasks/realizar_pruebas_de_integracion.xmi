@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MWF2rGk8ElVyWIjq5fED8Q" name=",_QV_vIPlmEe2VUpbnunlhWA" guid="-MWF2rGk8ElVyWIjq5fED8Q" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T08:02:15.323-0500" changeDescription="Version con toda la informacion y relacion de la tarea." version="Version final">
+  <mainDescription>Las pruebas de integración o pruebas integradas se definen como un mecanismo de testeo de software, donde se realiza un&#xD;
+análisis de los procesos relacionados con el ensamblaje o unión de los componentes, sus comportamientos con múltiples&#xD;
+partes del sistema.</mainDescription>
+  <sections xmi:id="_c97jMPlqEe2VUpbnunlhWA" name="Preparar un plan de pruebas de integración" guid="_c97jMPlqEe2VUpbnunlhWA"/>
+  <sections xmi:id="_2Di8wPlqEe2VUpbnunlhWA" name="Diseñar casos de prueba, escenarios de prueba y guiones de prueba" guid="_2Di8wPlqEe2VUpbnunlhWA"/>
+  <sections xmi:id="_5QVB0PlqEe2VUpbnunlhWA" name="Despliegue los módulos elegidos juntos y ejecute sus pruebas" guid="_5QVB0PlqEe2VUpbnunlhWA"/>
+  <purpose>El proposito de las pruebas de integracion de software es realizar un analisis a los procesos de software basados en la&#xD;
+union.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

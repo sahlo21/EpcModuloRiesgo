@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mtI7C4fSFgHgHEty8GoBjw" name=",_V1ya0Pl1Ee2VUpbnunlhWA" guid="-mtI7C4fSFgHgHEty8GoBjw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T09:29:29.803-0500" changeDescription="Tarea documentada y con las relaciones necesarias." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La documentacion de requisitos se realiza una vez se tengan las necesidades de los usuarios, es decir, se realiza luego&#xD;
+    de la tarea de consultar necesidades, una vez se tenga esto, la tarea se encarga de describir cada una de las&#xD;
+    necesidades de forma clara y concisa con el fin de evitar errores.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_atlawPl2Ee2VUpbnunlhWA" name="Obtener las necesidades de usuario" guid="_atlawPl2Ee2VUpbnunlhWA"/>
+  <sections xmi:id="_b6VhwPl2Ee2VUpbnunlhWA" name="Describir en lenguaje natural los requisitos" guid="_b6VhwPl2Ee2VUpbnunlhWA"/>
+  <purpose>El proposito de esta tarea es generar los requisitos del sistema con los cuales se van a desarrollar futuras actividades.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

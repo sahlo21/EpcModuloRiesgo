@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SB9wA48_YVdNNJCQPcwOUw" name="new_artifact,_SkJnMPkCEe2wNP29IlE1iA" guid="-SB9wA48_YVdNNJCQPcwOUw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T19:42:50.793-0500" changeDescription="Esta version contiene toda la informacion del artefacto." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    El documento de acta de inicio de ejecucion deja claro en que fecha se da inicio al proceso de desarrollo de la&#xD;
+    aplicacion, es decir, se deja claro en que momento se da luz verde a las demas dependencias.&#xD;
+&lt;/p></mainDescription>
+  <purpose>El proposito de este documento es dejar claro el momento en que se dio inicio a las demas dependecias.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

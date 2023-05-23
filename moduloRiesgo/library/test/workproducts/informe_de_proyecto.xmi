@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oFPOTexUpuYebuGldxpTbw" name="new_artifact,_j94cEPljEe2VUpbnunlhWA" guid="-oFPOTexUpuYebuGldxpTbw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T07:17:45.776-0500" changeDescription="Se agrego toda la informacion del artefacto" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    El informe del proyecto se construye a partir de informacion y decisiones que se tomaron en la actividad de consulta de&#xD;
+    experiencia, en este se evidencia la informacion de posibles cambios o mejoras que se le pueden realizar a la&#xD;
+    apliacion.&#xD;
+&lt;/p></mainDescription>
+  <purpose>El proposito de este artefacto es tener una guia de cambios a realizar dentro de la apliacion.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

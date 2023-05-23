@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9VP0T9cmJQS0fhzR7B6cVw" name="new_artifact,_MsaTkPkJEe2wNP29IlE1iA" guid="-9VP0T9cmJQS0fhzR7B6cVw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T20:30:04.748-0500" changeDescription="Esta version contiene toda la informacion del documento." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    El documento revision del proyecto se basa en realizar un revision sobre la informacion de la arquitectura del&#xD;
+    software, con el fin de encontrar errores y solucionarlos.&#xD;
+&lt;/p></mainDescription>
+  <purpose>El proposito de este documento es tener los cambios pertinentes de la arquitectura de software</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

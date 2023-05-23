@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_cjcx3qcQksCN6GwPWF-sA" name=",_5Mi3APkHEe2wNP29IlE1iA" guid="-_cjcx3qcQksCN6GwPWF-sA" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T20:21:38.635-0500" changeDescription="Version con toda la informacion y relaciones de la tarea." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de iniciar el proyecto se basa en la creacion del acta de inicio, en la cual se tiene&amp;nbsp;diversos datos del&#xD;
+    inicio del proyecto, el cual da inicio con la creacion de la arquitectura de software.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_fP4rQPkIEe2wNP29IlE1iA" name="Crear el acta" guid="_fP4rQPkIEe2wNP29IlE1iA">
+    <sectionDescription>En este paso luego de realizar la tarea anterior se tiene que se debe generar el acta con toda la informacion pertinente.</sectionDescription>
+  </sections>
+  <sections xmi:id="_vk81MPkIEe2wNP29IlE1iA" name="Notificar sobre el comienzo" guid="_vk81MPkIEe2wNP29IlE1iA">
+    <sectionDescription>Se le notifica a los stakeholders del proyecto que se va a empezar con el desarrollo de este, especificamente con el&#xD;
+desarrollo de la arquitectura de software.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es realizar de manera adecuada el acta de inicio de la arquitectura de software</purpose>
+</org.eclipse.epf.uma:TaskDescription>

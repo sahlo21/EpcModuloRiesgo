@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-z14rFJxOSaIoVXdPpb8vwA" name=",_WuYl0PlsEe2VUpbnunlhWA" guid="-z14rFJxOSaIoVXdPpb8vwA" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T08:29:00.653-0500" changeDescription="Documentacion y relaciones de la tarea completadas." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de realizar pruebas de compatibilidad a un sistema busca que este se comporte de una manera similar en&#xD;
+    diversos entornos, es decir, en diversos sistemas operativos o navegadores web si es el caso de una pagina web.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_MNu_oPluEe2VUpbnunlhWA" name="Se seleccionan las pruebas a realizar" guid="_MNu_oPluEe2VUpbnunlhWA"/>
+  <sections xmi:id="_NTXK8PluEe2VUpbnunlhWA" name="Se eligen los sistemas operativos o navegadores en los cuales probar" guid="_NTXK8PluEe2VUpbnunlhWA"/>
+  <sections xmi:id="_QFZNsPluEe2VUpbnunlhWA" name="Documentar los resultados" guid="_QFZNsPluEe2VUpbnunlhWA"/>
+  <purpose>El proposito de esta tarea es revisar la compatibilidad con los diversos sistemas operativos y navegadores.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

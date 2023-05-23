@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9ZbdkVMcRGyh6cvaRfv-Eg" name=",_DpE_8PkLEe2wNP29IlE1iA" guid="-9ZbdkVMcRGyh6cvaRfv-Eg" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T20:45:03.804-0500" changeDescription="Version con toda la informacion y relaciones de la tarea." version="Version final.">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de realizar los cambios se relaciona con la anterior, donde en la anterior se obtienen los posibles cambios y&#xD;
+    en esta se realizan dichos cambios a la arquitectura.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_n5VtAPkLEe2wNP29IlE1iA" name="Analizar los posibles cambios" guid="_n5VtAPkLEe2wNP29IlE1iA">
+    <sectionDescription>Se analizan los posibles cambios verificando la veracidad de estos, si no se notificaron cambios se deja igual la&#xD;
+arquitectura de software.</sectionDescription>
+  </sections>
+  <sections xmi:id="_rGQU8PkLEe2wNP29IlE1iA" name="Realizar los cambios" guid="_rGQU8PkLEe2wNP29IlE1iA">
+    <sectionDescription>Se realizan los cambios que si son veridicos y viables dentro de la arquitectura de software.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es modificar la arquitectura de software, con el fin de evitar errores.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

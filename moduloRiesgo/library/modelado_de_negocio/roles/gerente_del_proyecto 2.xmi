@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9SQuGCg6SGSmx4Lg59Dyxg" name="new_role,_6Spa4PjwEe2wNP29IlE1iA" guid="-9SQuGCg6SGSmx4Lg59Dyxg" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T18:02:07.911-0500" changeDescription="Se añadio toda la informacion de la documentacion del rol gerente del proyecto." version="Version final">
+  <mainDescription>El gerente del proyecto es el rol encargado de analizar la informacion del proyecto que se va a realizar, asi mismo, se&#xD;
+encarga de mantener comunicacion con los stakeholders y&amp;nbsp;realizar la distribucion de roles y tareas al equipo&amp;nbsp;que&#xD;
+hace parte del proyecto.&amp;nbsp;</mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    El gerente del proyecto esta presente en todo el proceso de desarrollo el proyecto de software.&#xD;
+&lt;/p></keyConsiderations>
+  <skills>El gerente de proyecto debe tener una capacidad de comunicacion alta, puesto que es aquel que se comunica con los&#xD;
+interesados en el proyecto y con las demas partes del equipo.</skills>
+  <assignmentApproaches>El gerente del proyecto se enfoca en la revision y analisis del proyecto, es decir, se encarga se analizar el&#xD;
+funcionamiento de este, asi como el correcto funcionamiento de este en su momento de implementacion.</assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

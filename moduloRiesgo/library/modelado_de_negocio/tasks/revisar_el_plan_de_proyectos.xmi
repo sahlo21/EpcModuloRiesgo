@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JRjUV0Em1G1qYNVUG1CoLw" name=",_MRHpQPkKEe2wNP29IlE1iA" guid="-JRjUV0Em1G1qYNVUG1CoLw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T20:37:41.889-0500" changeDescription="Se tiene toda la informacion y relaciones de la tarea." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de revisar el plan de proyectos se basa en analizar la arquitectura de software con el fin de obtener cambios&#xD;
+    en la arquitectura y de esta manera evitar errores futuros.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_mdiS0PkKEe2wNP29IlE1iA" name="Analizar la informacion de la arquitectura" guid="_mdiS0PkKEe2wNP29IlE1iA">
+    <sectionDescription>&lt;p>&#xD;
+    Se obtiene la arquitectura de software y en base a esta se analiza la informacion.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_rVgHUPkKEe2wNP29IlE1iA" name="Evidenciar los posibles errores" guid="_rVgHUPkKEe2wNP29IlE1iA">
+    <sectionDescription>&lt;p>&#xD;
+    Luego de analizar la arquitectura de software se buscan erroes y si se tienen se escriben y luego se notificaran, si no&#xD;
+    se tiene simplemente se realiza el siguiente paso.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_s1xAMPkKEe2wNP29IlE1iA" name="Notificar al arquitecto" guid="_s1xAMPkKEe2wNP29IlE1iA">
+    <sectionDescription>Se notifica al arquitecto acerca de los posibles errores que se tengan, si no se tiene algun error simplemente se notifica&#xD;
+que la arquitectura de software esta en perfecto estado.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es obtener una arquitectura de software correcta sin errores.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

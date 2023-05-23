@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_D-Rk8fjsEe2wNP29IlE1iA" guid="_D-Rk8fjsEe2wNP29IlE1iA">
+    <resourceDescriptors xmi:id="_HcTpQPl0Ee2VUpbnunlhWA" id="-VWuYawYA1NKjBN6QiEzZiw" uri="roles/gerente_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_dy6e4vl0Ee2VUpbnunlhWA" id="-b_Nn6LLXYqTGLefGUTH6TA" uri="workproducts/requisitos_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_ElwdcPl1Ee2VUpbnunlhWA" id="-uvELRji8ihzLMzttse_r-g" uri="tasks/asignar_reuniones_dailys.xmi"/>
+    <resourceDescriptors xmi:id="_1r_-cfl1Ee2VUpbnunlhWA" id="-OzL2iAl9QnCriFZpZOeu_A" uri="tasks/consultar_las_necesidades_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_XWBpEfl2Ee2VUpbnunlhWA" id="-mtI7C4fSFgHgHEty8GoBjw" uri="tasks/documentar_los_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_GQhrQPl3Ee2VUpbnunlhWA" id="-v1kWhhAdXEfPomJshTrMaQ" uri="roles/gerente_del_proyecto%202.xmi"/>
+    <resourceDescriptors xmi:id="_H8uuYPl3Ee2VUpbnunlhWA" id="-fne_1UCvIzxqEhmVGWLL4A" uri="roles/arquitecto.xmi"/>
+    <resourceDescriptors xmi:id="_TxA_UPl4Ee2VUpbnunlhWA" id="-gqNe__BvBfrv5q1ClEj_Kg" uri="workproducts/documento_de_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_zWWOUPl4Ee2VUpbnunlhWA" id="-puGHKg8URnCgSIjAYSTX6g" uri="tasks/analizar_los_requisitos_de_usuario.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_D-MFYPjsEe2wNP29IlE1iA" name="requisitos" guid="_D-MFYPjsEe2wNP29IlE1iA" presentationName="requisitos" briefDescription="En esta disciplina se busca establecer de mejor manera el funcionamiento y necesidades del proyecto software, ademas de esto se brinda informacion clara, una guia de como desarrollar el proceso y restricciones del funcionamiento" authors="Julian Callejas, Andres Garcia, Kevin Sanchez">
+    <methodElementProperty xmi:id="_FnXpsPjsEe2wNP29IlE1iA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFYfjsEe2wNP29IlE1iA" name="Content" guid="_D-MFYfjsEe2wNP29IlE1iA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFYvjsEe2wNP29IlE1iA" name="Categories" guid="_D-MFYvjsEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFY_jsEe2wNP29IlE1iA" name="Domains" guid="_D-MFY_jsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFZPjsEe2wNP29IlE1iA" name="Disciplines" guid="_D-MFZPjsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFZfjsEe2wNP29IlE1iA" name="RoleSets" guid="_D-MFZfjsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFZvjsEe2wNP29IlE1iA" name="WP Types" guid="_D-MFZvjsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFZ_jsEe2wNP29IlE1iA" name="Tools" guid="_D-MFZ_jsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFaPjsEe2wNP29IlE1iA" name="StandardCategories" guid="_D-MFaPjsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFafjsEe2wNP29IlE1iA" name="CustomCategories" guid="_D-MFafjsEe2wNP29IlE1iA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFavjsEe2wNP29IlE1iA" name="Hidden" guid="_D-MFavjsEe2wNP29IlE1iA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_D-MFa_jsEe2wNP29IlE1iA" name="Custom Categories" guid="_D-MFa_jsEe2wNP29IlE1iA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_D-MFbPjsEe2wNP29IlE1iA" name="CoreContent" guid="_D-MFbPjsEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_lVrpkPlwEe2VUpbnunlhWA" name="comunicacion_con_los_stakeholders" guid="_lVrpkPlwEe2VUpbnunlhWA" presentationName="Comunicacion con los stakeholders" briefDescription="Esta actividad se basa en la comunicacion directa con los interesados del proyecto para obtener informacion">
+          <methodElementProperty xmi:id="_lVrpkflwEe2VUpbnunlhWA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_nqSJcPlwEe2VUpbnunlhWA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HSY4QPl0Ee2VUpbnunlhWA" name="gerente_del_proyecto" guid="_HSY4QPl0Ee2VUpbnunlhWA" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores" responsibleFor="_JosBQPl0Ee2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_HcNioPl0Ee2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-VWuYawYA1NKjBN6QiEzZiw" href="uma://-VWuYawYA1NKjBN6QiEzZiw#-VWuYawYA1NKjBN6QiEzZiw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_JosBQPl0Ee2VUpbnunlhWA" name="requisitos_de_usuario" guid="_JosBQPl0Ee2VUpbnunlhWA" presentationName="Requisitos de usuario" briefDescription="En este documento se tienen los requisitos de los usuarios, es decir las demandas de los usuarios para el sistema.">
+            <methodElementProperty xmi:id="_dy6e4Pl0Ee2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-b_Nn6LLXYqTGLefGUTH6TA" href="uma://-b_Nn6LLXYqTGLefGUTH6TA#-b_Nn6LLXYqTGLefGUTH6TA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gMciEPl0Ee2VUpbnunlhWA" name="asignar_reuniones_dailys" guid="_gMciEPl0Ee2VUpbnunlhWA" presentationName="Asignar reuniones dailys" briefDescription="Se realizan reuniones diarias con los stakeholders con el fin de obtener los requisitos de los usuarios." performedBy="_HSY4QPl0Ee2VUpbnunlhWA" output="_JosBQPl0Ee2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_Elv2YPl1Ee2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-uvELRji8ihzLMzttse_r-g" href="uma://-uvELRji8ihzLMzttse_r-g#-uvELRji8ihzLMzttse_r-g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Sc3-QPl1Ee2VUpbnunlhWA" name="consultar_las_necesidades_de_usuario" guid="_Sc3-QPl1Ee2VUpbnunlhWA" presentationName="Consultar las necesidades de usuario" briefDescription="Utilizando las reuniones se le pregunta al usuario o interesado sobre las necesidades de la aplicacion." performedBy="_HSY4QPl0Ee2VUpbnunlhWA" mandatoryInput="_JosBQPl0Ee2VUpbnunlhWA" output="_JosBQPl0Ee2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_Vj5ZkPl1Ee2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-OzL2iAl9QnCriFZpZOeu_A" href="uma://-OzL2iAl9QnCriFZpZOeu_A#-OzL2iAl9QnCriFZpZOeu_A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_V1ya0Pl1Ee2VUpbnunlhWA" name="documentar_los_requisitos" guid="_V1ya0Pl1Ee2VUpbnunlhWA" presentationName="Documentar los requisitos" briefDescription="La documentacion de requisitos se realiza a partir de las necesidades de los usuarios con el proyecto o aplicacion de software." performedBy="_HSY4QPl0Ee2VUpbnunlhWA" mandatoryInput="_JosBQPl0Ee2VUpbnunlhWA" output="_JosBQPl0Ee2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_XvV9cPl1Ee2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-mtI7C4fSFgHgHEty8GoBjw" href="uma://-mtI7C4fSFgHgHEty8GoBjw#-mtI7C4fSFgHgHEty8GoBjw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_n-zA4PlwEe2VUpbnunlhWA" name="desarrollo_de_requisitos" guid="_n-zA4PlwEe2VUpbnunlhWA" presentationName="Desarrollo de requisitos" briefDescription="Se crean los requisitos del proyecto a partir de las necesidades.">
+          <methodElementProperty xmi:id="_n-zA4flwEe2VUpbnunlhWA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_pFqiUPlwEe2VUpbnunlhWA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_GP6nQPl3Ee2VUpbnunlhWA" name="gerente_del_proyecto" guid="_GP6nQPl3Ee2VUpbnunlhWA" presentationName="Gerente del proyecto" briefDescription="El gerente del proyecto se encarga de realizar las reuniones con los stakeholders, revisar el funcionamiento de la aplicacion y analisar el proyecto de software con el fin de dividir este en labores">
+            <methodElementProperty xmi:id="_GQf2EPl3Ee2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-v1kWhhAdXEfPomJshTrMaQ" href="uma://-v1kWhhAdXEfPomJshTrMaQ#-v1kWhhAdXEfPomJshTrMaQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Hz-bAPl3Ee2VUpbnunlhWA" name="arquitecto" guid="_Hz-bAPl3Ee2VUpbnunlhWA" presentationName="Arquitecto" briefDescription="El arquitecto del proyecto es el encargado de realizar la documentacion pertinente del proyecto." responsibleFor="_OlGJgPl3Ee2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_H8sSIPl3Ee2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-fne_1UCvIzxqEhmVGWLL4A" href="uma://-fne_1UCvIzxqEhmVGWLL4A#-fne_1UCvIzxqEhmVGWLL4A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OlGJgPl3Ee2VUpbnunlhWA" name="documento_de_requisitos" guid="_OlGJgPl3Ee2VUpbnunlhWA" presentationName="Documento de requisitos" briefDescription="El documento de requisitos es la guia para los desarrolladores para realizar los procesos de programacion y pruebas.">
+            <methodElementProperty xmi:id="_Ri-28Pl3Ee2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gqNe__BvBfrv5q1ClEj_Kg" href="uma://-gqNe__BvBfrv5q1ClEj_Kg#-gqNe__BvBfrv5q1ClEj_Kg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Xc9FkPl4Ee2VUpbnunlhWA" name="analizar_los_requisitos_de_usuario" guid="_Xc9FkPl4Ee2VUpbnunlhWA" presentationName="Analizar los requisitos de usuario" briefDescription="Los requisitos de usuario se basa en analizar la informacion anterior con el fin de saber cuales son utiles y cuales utilizar." performedBy="_Hz-bAPl3Ee2VUpbnunlhWA" mandatoryInput="_JosBQPl0Ee2VUpbnunlhWA" output="_OlGJgPl3Ee2VUpbnunlhWA" additionallyPerformedBy="_GP6nQPl3Ee2VUpbnunlhWA">
+            <methodElementProperty xmi:id="_zWVAMPl4Ee2VUpbnunlhWA" name="me_edited" value="true"/>
+            <presentation xmi:id="-puGHKg8URnCgSIjAYSTX6g" href="uma://-puGHKg8URnCgSIjAYSTX6g#-puGHKg8URnCgSIjAYSTX6g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NZoxEPl5Ee2VUpbnunlhWA" name="desarrollar_los_requisitos" guid="_NZoxEPl5Ee2VUpbnunlhWA" presentationName="Desarrollar los requisitos">
+            <methodElementProperty xmi:id="_O-en8Pl5Ee2VUpbnunlhWA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pasXIPlwEe2VUpbnunlhWA" name="notificacion_de_requisitos" guid="_pasXIPlwEe2VUpbnunlhWA" presentationName="Notificacion de requisitos" briefDescription="Mencionar a los desarrolladores y stakeholders sobre los requisitos">
+          <methodElementProperty xmi:id="_pasXIflwEe2VUpbnunlhWA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_qu04gPlwEe2VUpbnunlhWA" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rD5woPlwEe2VUpbnunlhWA" name="reunion_de_requisitos_con_stakeholders" guid="_rD5woPlwEe2VUpbnunlhWA" presentationName="Reunion de requisitos con stakeholders" briefDescription="Se realizan modificaciones a los requisitos, luego de hablar con los stakeholders sobre estos.">
+          <methodElementProperty xmi:id="_rD5woflwEe2VUpbnunlhWA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_tNc3EPlwEe2VUpbnunlhWA" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tl6aYPlwEe2VUpbnunlhWA" name="modificacion_requisitos" guid="_tl6aYPlwEe2VUpbnunlhWA" presentationName="Modificacion requisitos" briefDescription="Segun lo visto en la reunion con stakeholders se realizan cambios a los requisitos del proyecto">
+          <methodElementProperty xmi:id="_tl6aYflwEe2VUpbnunlhWA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_uzNT8PlwEe2VUpbnunlhWA" name="me_edited" value="true"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_D-MFbfjsEe2wNP29IlE1iA" name="CapabilityPatterns" guid="_D-MFbfjsEe2wNP29IlE1iA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_D-MFbvjsEe2wNP29IlE1iA" name="DeliveryProcesses" guid="_D-MFbvjsEe2wNP29IlE1iA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_D-MFb_jsEe2wNP29IlE1iA" name="ProcessContributions" guid="_D-MFb_jsEe2wNP29IlE1iA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

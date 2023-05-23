@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_jBRi8fjsEe2wNP29IlE1iA" guid="_jBRi8fjsEe2wNP29IlE1iA"/>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_jBQU0PjsEe2wNP29IlE1iA" name="analisis_y_disenio" guid="_jBQU0PjsEe2wNP29IlE1iA" presentationName="analisis y diseño" briefDescription="En esta disciplina se busca enteneder la disciplina anterior, es decir, se analisan los requisitos y se busca diseñar de la mejor manera la forma en la que se realizaran los procesos del programa" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T17:04:06.430-0500" changeDescription="En esta version se tiene de manera completa la disciplina de analisis y diseño, en la cual se incluyen los roles, actividades y tareas que se van a realizar dentro del proyecto" version="Version final">
+    <methodElementProperty xmi:id="_kger4PjsEe2wNP29IlE1iA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU0fjsEe2wNP29IlE1iA" name="Content" guid="_jBQU0fjsEe2wNP29IlE1iA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU0vjsEe2wNP29IlE1iA" name="Categories" guid="_jBQU0vjsEe2wNP29IlE1iA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU0_jsEe2wNP29IlE1iA" name="Domains" guid="_jBQU0_jsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU1PjsEe2wNP29IlE1iA" name="Disciplines" guid="_jBQU1PjsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU1fjsEe2wNP29IlE1iA" name="RoleSets" guid="_jBQU1fjsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU1vjsEe2wNP29IlE1iA" name="WP Types" guid="_jBQU1vjsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU1_jsEe2wNP29IlE1iA" name="Tools" guid="_jBQU1_jsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU2PjsEe2wNP29IlE1iA" name="StandardCategories" guid="_jBQU2PjsEe2wNP29IlE1iA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU2fjsEe2wNP29IlE1iA" name="CustomCategories" guid="_jBQU2fjsEe2wNP29IlE1iA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU2vjsEe2wNP29IlE1iA" name="Hidden" guid="_jBQU2vjsEe2wNP29IlE1iA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jBQU2_jsEe2wNP29IlE1iA" name="Custom Categories" guid="_jBQU2_jsEe2wNP29IlE1iA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jBQU3PjsEe2wNP29IlE1iA" name="CoreContent" guid="_jBQU3PjsEe2wNP29IlE1iA"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_jBQU3fjsEe2wNP29IlE1iA" name="CapabilityPatterns" guid="_jBQU3fjsEe2wNP29IlE1iA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_jBQU3vjsEe2wNP29IlE1iA" name="DeliveryProcesses" guid="_jBQU3vjsEe2wNP29IlE1iA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_jBQU3_jsEe2wNP29IlE1iA" name="ProcessContributions" guid="_jBQU3_jsEe2wNP29IlE1iA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5PajxoQUcVACvl90scZdnQ" name=",_NmlikPlmEe2VUpbnunlhWA" guid="-5PajxoQUcVACvl90scZdnQ" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T08:09:34.348-0500" changeDescription="Documentacion y relaciones de toda la actividad completado" version="Version final">
+  <mainDescription>Con ellas se detectan antes errores que, sin las pruebas unitarias, no se podrían detectar hasta fases más avanzadas como&#xD;
+las pruebas de sistema, de integración e incluso en la beta.</mainDescription>
+  <sections xmi:id="_cpUIoPlrEe2VUpbnunlhWA" name="Seleccionar que tipo de pruebas se van a realizar" guid="_cpUIoPlrEe2VUpbnunlhWA"/>
+  <sections xmi:id="_eQAZoPlrEe2VUpbnunlhWA" name="Realizar las pruebas unitarias" guid="_eQAZoPlrEe2VUpbnunlhWA"/>
+  <sections xmi:id="_fYMwwPlrEe2VUpbnunlhWA" name="Documentar los resultados" guid="_fYMwwPlrEe2VUpbnunlhWA"/>
+  <purpose>El proposito de esta tarea es obtener los errores del sistema.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

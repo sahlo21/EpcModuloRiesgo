@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-venVvijLKT31TgVqcedb2Q" name=",_7ZO2wPlkEe2VUpbnunlhWA" guid="-venVvijLKT31TgVqcedb2Q" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T07:26:45.449-0500" changeDescription="Version de la tarea con toda la informacion y relaciones." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de realizar el documento con mejoras y cambios se basa en tomar toda el conocimiento obtenido y dejarlo de&#xD;
+    manera escrita, este documento debe ser entendible y muy detallado, con el fin de evitar que se generen dudas o&#xD;
+    especulaciones.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_WcV3wPllEe2VUpbnunlhWA" name="Utilizar el bosquejo anterior" guid="_WcV3wPllEe2VUpbnunlhWA">
+    <sectionDescription>Se actualiza el documento anterior con la informacion nueva que se tiene y de manera detallada.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cKdRIPllEe2VUpbnunlhWA" name="Crear el informe del proyecto" guid="_cKdRIPllEe2VUpbnunlhWA">
+    <sectionDescription>Se detalla cada mejora o cambio que se puede realizar, escribiendo este informe de manera detallada y precisa.</sectionDescription>
+  </sections>
+  <sections xmi:id="_h6evAPllEe2VUpbnunlhWA" name="Notificar a los desarrolladores" guid="_h6evAPllEe2VUpbnunlhWA">
+    <sectionDescription>Con el informe realizado se envia este a los encargados de realizar las modificaciones, es decir, los desarrolladores&#xD;
+BackEnd y FrontEnd.</sectionDescription>
+  </sections>
+  <sections xmi:id="_nqIZcPllEe2VUpbnunlhWA" name="New Step" guid="_nqIZcPllEe2VUpbnunlhWA"/>
+  <purpose>El proposito de esta tarea es realizar un informe detallado con todas las posibles mejoras o cambios de la aplicacion.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

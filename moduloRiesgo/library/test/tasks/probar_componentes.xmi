@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kbxrwXan9NSl_axukIwP8A" name=",_vxFdAPlmEe2VUpbnunlhWA" guid="-kbxrwXan9NSl_axukIwP8A" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T07:47:19.753-0500" changeDescription="Version con toda la documentacion y relaciones de la tarea" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de probar componentes se basa en realizar diversas pruebas o actividades a la interfaz grafica del proyecto,&#xD;
+    con el fin de analizarla y encontrar errores o cambios a realizar.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_jHPVsPloEe2VUpbnunlhWA" name="Analizar las pruebas a realizar" guid="_jHPVsPloEe2VUpbnunlhWA">
+    <sectionDescription>Se eligen que pruebas se van a realizar, en base a conocimiento y experiencia que se tiene por parte de los testers qa</sectionDescription>
+  </sections>
+  <sections xmi:id="_2wGLoPloEe2VUpbnunlhWA" name="Realiza las pruebas" guid="_2wGLoPloEe2VUpbnunlhWA">
+    <sectionDescription>Se realizan las pruebas que se seleccionaron anteriormente.</sectionDescription>
+  </sections>
+  <sections xmi:id="_1JLRIPloEe2VUpbnunlhWA" name="Documentar los resultados" guid="_1JLRIPloEe2VUpbnunlhWA">
+    <sectionDescription>Se documentan los resultados obtenidos en las prueba, es decir, se documentan los posibles cambios o mejoras que se le&#xD;
+pueden realizar a la aplicacion software.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es realizar las pruebas de funcionamiento a la interfaz grafica del proyecto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

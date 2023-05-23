@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cvMlas21ntTsi-cqN7EByg" name=",_hNWqoPliEe2VUpbnunlhWA" guid="-cvMlas21ntTsi-cqN7EByg" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T07:08:38.373-0500" changeDescription="Version con toda la informacion de la tarea y las relaciones necesarias." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de llenar el formulario se basa en luego de realizar las pruebas dejar que los usuarios llenen el formulario&#xD;
+    con preguntas claves y de esta manera todas las respuestas se compilan en forma de grafica, la cual se puede analizar.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_97Tc0PliEe2VUpbnunlhWA" name="Realizar el formulario" guid="_97Tc0PliEe2VUpbnunlhWA">
+    <sectionDescription>Se realiza un formulario en base a los puntos clave de la prueba, es decir, se agregan campos que se necesitan para&#xD;
+realizan cambios y poder analizar la aplicacion a fondo.</sectionDescription>
+  </sections>
+  <sections xmi:id="_M1XoYPljEe2VUpbnunlhWA" name="Proponer los formularios a los usuarios" guid="_M1XoYPljEe2VUpbnunlhWA">
+    <sectionDescription>Se da&amp;nbsp;a los usuarios los formularios realizados con el fin de que estos los realicen y se generen datos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ExGP8PljEe2VUpbnunlhWA" name="Recopilar la informacion" guid="_ExGP8PljEe2VUpbnunlhWA">
+    <sectionDescription>&lt;p>&#xD;
+    Luego de que los usuarios llenen la informacion del cuestionario los datos obtenidos se procesan y se vuelve&#xD;
+    informacion analizable.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es presentar de manera ordenada la informacion o feedback de los usuarios.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

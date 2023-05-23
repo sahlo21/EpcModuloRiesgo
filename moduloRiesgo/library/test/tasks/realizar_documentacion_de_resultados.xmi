@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8v8Y8UQs7CnZiAt1rNIFUg" name=",_x6uDAPlmEe2VUpbnunlhWA" guid="-8v8Y8UQs7CnZiAt1rNIFUg" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T07:57:49.797-0500" changeDescription="Version con toda la informacion y relacion de las tareas." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea dde realizar la documentacion tiene la funcion de generar la version final del artefacto, en donde se tienen&#xD;
+    diversa informacion acerca de las pruebas y los cambios que se deben de realizar a la aplicacion.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_m0q0QPlpEe2VUpbnunlhWA" name="Analizar la informacion de las pruebas" guid="_m0q0QPlpEe2VUpbnunlhWA">
+    <sectionDescription>Se analizan todas las pruebas que se realizaron con anterioridas, y se mira la veracidad de estas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_n2VFkPlpEe2VUpbnunlhWA" name="Realizar la fase final del documento" guid="_n2VFkPlpEe2VUpbnunlhWA">
+    <sectionDescription>Se documenta de la manera adecuada las pruebas que se realizaron en las demas tareas anteriores.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es realizar el documento de testeo funcional.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

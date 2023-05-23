@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-claICuOh4ZIw2n0fVUK9mA" name=",_IcdR8PlkEe2VUpbnunlhWA" guid="-claICuOh4ZIw2n0fVUK9mA" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T07:20:23.670-0500" changeDescription="Version con toda la informacion y relacion de la tarea." version="Version final">
+  <mainDescription>Esta tarea se realiza con ayuda de la actividad de consultar la experiencia, en la cual se obtiene informacion del feedback&#xD;
+de los usuarios, con esta informacion en un documento se puede analizar con el fin de tomar deciones a futuro sobre la&#xD;
+aplicacion.</mainDescription>
+  <sections xmi:id="_l9l0kPlkEe2VUpbnunlhWA" name="Obtener la informacion" guid="_l9l0kPlkEe2VUpbnunlhWA">
+    <sectionDescription>Se obtienen la informacion de la actividad anterior la cual es la consulta de experiencia.</sectionDescription>
+  </sections>
+  <sections xmi:id="_pdXuIPlkEe2VUpbnunlhWA" name="Analizar la informacion" guid="_pdXuIPlkEe2VUpbnunlhWA">
+    <sectionDescription>&lt;p>&#xD;
+    Luego de obtener la informacion se analiza la informacion que se tiene con el fin de obtener conocimientos sobre los&#xD;
+    posibles cambios que se pueden dar dentro de la aplicacion.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_vmQX8PlkEe2VUpbnunlhWA" name="Escribir los posibles cambios" guid="_vmQX8PlkEe2VUpbnunlhWA">
+    <sectionDescription>Se realiza un prototipo del informe donde se tienen los cambios en general de la aplicacion, sin que estos esten&#xD;
+detallados.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es poder tener el conocimiento necesario para realizar el proceso de toma de decisiones.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

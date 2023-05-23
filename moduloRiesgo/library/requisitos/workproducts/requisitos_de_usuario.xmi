@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b_Nn6LLXYqTGLefGUTH6TA" name="new_artifact,_JosBQPl0Ee2VUpbnunlhWA" guid="-b_Nn6LLXYqTGLefGUTH6TA" changeDate="2023-05-23T09:16:09.502-0500">
+  <mainDescription>&lt;p>&#xD;
+    Los requisitos de usuario es el compilado de requisitos dados por los stakeholders en lenguaje natural que proximamente&#xD;
+    se van a modificar y realizar de manera que sean claros.&#xD;
+&lt;/p></mainDescription>
+  <purpose>El porposito de este documento es guiar sobre los requisitos que piden lo usuarios al sistema.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

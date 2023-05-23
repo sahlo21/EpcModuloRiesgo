@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zNEebza1Cng17GZqQs21Kw" name=",_h57HEPjxEe2wNP29IlE1iA" guid="-zNEebza1Cng17GZqQs21Kw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T18:19:09.609-0500" changeDescription="En esta version se tiene toda la informacion diligenciada." version="Version final">
+  <mainDescription>La tarea de asignacion de roles cumple una funcion vital, puesto que en esta se deja claro que tareas, actividades y roles&#xD;
+van a realizar y desempeñar los miembros del equipo de trabajo, dejando claro todo lo que se va a realizar en el proyecto.</mainDescription>
+  <sections xmi:id="_frvmAPj2Ee2wNP29IlE1iA" name="Analizar el brief del proyecto" guid="_frvmAPj2Ee2wNP29IlE1iA">
+    <sectionDescription>Una vez se investiga el equipo que se tiene se realiza un brief donde se tiene la informacion del equipo y las capacidades&#xD;
+de estos, para asignarles funciones se debe analizar este.</sectionDescription>
+  </sections>
+  <sections xmi:id="_qWGP4Pj2Ee2wNP29IlE1iA" name="Asignar las funciones" guid="_qWGP4Pj2Ee2wNP29IlE1iA">
+    <sectionDescription>Luego de obtener la informacion de los empleados que se tienen se asignan tareas segun las habilidades que se poseen y los&#xD;
+roles que suelen cumplir a la hora de trabajar en equipo.</sectionDescription>
+  </sections>
+  <sections xmi:id="_yKZ5sPj2Ee2wNP29IlE1iA" name="Actualizar el brief del proyecto" guid="_yKZ5sPj2Ee2wNP29IlE1iA">
+    <sectionDescription>Luego se asignar funciones se debe actualizar el brief del proyecto agregandole a los miembros del equipo las&#xD;
+funciones&amp;nbsp;y roles que van a cumplir dentro del desarrollo del proyecto.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    El proposito de esta tarea es asignar funciones y roles a los miembros del equipo del proyecto.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

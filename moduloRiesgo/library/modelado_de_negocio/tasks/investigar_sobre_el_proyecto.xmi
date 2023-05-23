@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NTi0nUvYwTQKcDAWqFVxVQ" name=",_q7GgwPj-Ee2wNP29IlE1iA" guid="-NTi0nUvYwTQKcDAWqFVxVQ" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T19:15:03.605-0500" changeDescription="Version con toda la informacion de la tarea investigar sobre el proyecto y sus relaciones con los artefactos y roles" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de investigar sobre el proyecto se realiza con el fin de tener claro el funcionamiento y alcance del proyecto,&#xD;
+    y con esto poder realizar una arquitectura de software muy robusta y escalable.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_MAJPAPj_Ee2wNP29IlE1iA" name="Analizar el proyecto" guid="_MAJPAPj_Ee2wNP29IlE1iA">
+    <sectionDescription>Luego de que el gerente del proyecto describa como se va a realizar el proyecto el arquitecto se encarga de analizar esta&#xD;
+informacion y empezar a recopilar informacion extra</sectionDescription>
+  </sections>
+  <sections xmi:id="_S1BcIPj_Ee2wNP29IlE1iA" name="Recopilar informacion extra" guid="_S1BcIPj_Ee2wNP29IlE1iA">
+    <sectionDescription>Se investiga acerca del proyecto con el fin de obtener toda la informacion necesaria para desarrollar la arquitectura de&#xD;
+software.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es obtener informacion relacionada al proyecto que se va a realizar.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

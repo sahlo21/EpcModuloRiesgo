@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WJDMaHxUsqhvIbJpBHHW_A" name=",_XLt38PjxEe2wNP29IlE1iA" guid="-WJDMaHxUsqhvIbJpBHHW_A" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T18:12:11.285-0500" changeDescription="Se tiene toda la informacion necesaria de la tarea de investigar el equipo." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de investigar el equipo de trabajo se realiza con el fin de obtener diversos datos de las personas que&#xD;
+    conforman el equipo, entre estos datos se tiene las habilidades que poseen, los roles que suelen desempeñar y la manera&#xD;
+    en la que trabajan en equipos.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_l72HkPj1Ee2wNP29IlE1iA" name="Obtencion del equipo" guid="_l72HkPj1Ee2wNP29IlE1iA">
+    <sectionDescription>&lt;p>&#xD;
+    Para el proyecto se busca un equipo que este capacitado en las necesidades de los stakeholders, para esto se realiza&#xD;
+    una investigacion sobre los equipos y se selecciona el mas capacitado para el proyecto.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_1gjyoPj1Ee2wNP29IlE1iA" name="Contratacion del equipo" guid="_1gjyoPj1Ee2wNP29IlE1iA">
+    <sectionDescription>Luego de obtener el equipo se realiza una contratacion, en esta se analizan los salarios, horas y las leyes vigentes para&#xD;
+la realizacion del contrato.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es obtener la informacion de las personas que hacen parte del equipo del proyecto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

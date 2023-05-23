@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JCIfolgLp0oF_Ve0s8_cuw" name="new_artifact,_uFaMgPjxEe2wNP29IlE1iA" guid="-JCIfolgLp0oF_Ve0s8_cuw" changeDate="2023-05-22T18:21:51.129-0500">
+  <mainDescription>&lt;p>&#xD;
+    El artefacto o documento brief del proyecto se realiza con el fin de tener clara la informacion de los interesados del&#xD;
+    proyecto, tanto de manera externa como lo son los usuarios, como de manera interna como lo son los miembros del equipo&#xD;
+    de desarrollo del proyecto.&#xD;
+&lt;/p></mainDescription>
+  <purpose>El proposito del brief del proyecto es generar informacion con los stakeholders del proyecto.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5FK-5WYGOsq-pBdeod0YRw" name="new_artifact,_ZaKssPkWEe2wNP29IlE1iA" guid="-5FK-5WYGOsq-pBdeod0YRw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T22:05:11.491-0500" changeDescription="Descripcion de la pagina web y el proyecto del modulo de riesgo." version="Version final">
+  <mainDescription>El modulo de gestion de riesgo dentro de la empresa constructora tiene diversas funciones, en las cuales se destaca la&#xD;
+notificacion a los demas modulos acerca de posibles riesgo que se van a dar dentro de esta, ademas de esta funcion tambien&#xD;
+puede habilitar o deshabilitar empleados, sin embargo, en esta pagina web se busca mostrar a las personas el proceso que se&#xD;
+realiza para obtener un proyecto gestionado correctamente, para esto se muestran los roles, tareas y artefactos que se&#xD;
+realizarob, asi como su orden y diagramas correspondientes.</mainDescription>
+  <purpose>El objetivo del modulo de gestion de riesgo es evitar que la empresa constructora tenga problemas dedido a diverss&#xD;
+factores.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

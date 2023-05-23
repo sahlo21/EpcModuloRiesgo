@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-puGHKg8URnCgSIjAYSTX6g" name=",_Xc9FkPl4Ee2VUpbnunlhWA" guid="-puGHKg8URnCgSIjAYSTX6g" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T09:46:42.580-0500" changeDescription="Version con toda la informacion de la tarea y las relaciones de estas." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de analizar los requisitos de usuario se basa en la busqueda de que requisito son funcionaeles, asi mismo,&#xD;
+    como calisificar estos, ademas de estos se busca elegir cuales de los dados son posibles.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_DktTUPl5Ee2VUpbnunlhWA" name="Obtener la informacion anterior" guid="_DktTUPl5Ee2VUpbnunlhWA"/>
+  <sections xmi:id="_GFktkPl5Ee2VUpbnunlhWA" name="Analizar la informacion" guid="_GFktkPl5Ee2VUpbnunlhWA"/>
+  <sections xmi:id="_G0ELQPl5Ee2VUpbnunlhWA" name="Clasificar los requisitos de usuario" guid="_G0ELQPl5Ee2VUpbnunlhWA"/>
+  <purpose>El proposito de esta tarea es analizar la informacion obtenida con el fin de clasificar y saber que requisitos son utiles.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

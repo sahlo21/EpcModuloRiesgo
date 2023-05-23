@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OuzPLIVSGlJQeYAgMTVevw" name="new_artifact,_t0dPUPkFEe2wNP29IlE1iA" guid="-OuzPLIVSGlJQeYAgMTVevw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-22T20:07:15.819-0500" changeDescription="Version con toda la documentacion del artefacto." version="Version final">
+  <mainDescription>Este artefacto se encarga de dejar claro en que momento del proyecto se dio inicio al desarrollo de la arquitectura de&#xD;
+software por parte del arquitecto.</mainDescription>
+  <purpose>El proposito de este artefacto es dejar claro el momento en que se dio inicio al desarrollo de la arquitectura del software</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>
