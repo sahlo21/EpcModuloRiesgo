@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SAO60ZIausy0xLnoCxbDrg" name=",_Id8nQPmGEe2VUpbnunlhWA" guid="-SAO60ZIausy0xLnoCxbDrg" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T11:24:06.426-0500" changeDescription="Version final con todas las relaciones y documentacion de la tarea." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de notificar se realiza tanto a los miembros del equipo de trabajo, como a los usuarios que estan interesados&#xD;
+    en el proyecto de software o aplicacion, ademas de esto, se deja claro con el fin de llevar un historial de&#xD;
+    notificaciones y fechas.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_lxI0gvmGEe2VUpbnunlhWA" name="Obtener los requisitos" guid="_lxI0gvmGEe2VUpbnunlhWA"/>
+  <sections xmi:id="_lxI0gfmGEe2VUpbnunlhWA" name="Notificar los requisitos" guid="_lxI0gfmGEe2VUpbnunlhWA"/>
+  <purpose>El proposito de esta tarea es notificar a los interesados sobre los requisitos.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

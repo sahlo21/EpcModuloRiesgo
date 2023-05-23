@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HK-kGNVpIfNZeDrs6ZqSFQ" name=",_bHgG4PmHEe2VUpbnunlhWA" guid="-HK-kGNVpIfNZeDrs6ZqSFQ" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T11:33:36.541-0500" changeDescription="Tarea documentada y relacionada por completo." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    El analisis de los cambios se realiza a partir de las peticiones que se tienen los stakeholders sobre las necesidades&#xD;
+    de la aplicacion, y con estas realizar cambios.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_xH8fQPmHEe2VUpbnunlhWA" name="Obtener la informacion" guid="_xH8fQPmHEe2VUpbnunlhWA"/>
+  <sections xmi:id="_yDMmkPmHEe2VUpbnunlhWA" name="Analizar los cambios" guid="_yDMmkPmHEe2VUpbnunlhWA"/>
+  <sections xmi:id="_zKHyYPmHEe2VUpbnunlhWA" name="Añadir un prototipo del cambio de documentos" guid="_zKHyYPmHEe2VUpbnunlhWA"/>
+  <purpose>El proposito del analisis es identificar las peticiones de los stakeholders.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SzVIkGORpLvxA12vCjAb8A" name=",_B-rg8PmKEe2VUpbnunlhWA" guid="-SzVIkGORpLvxA12vCjAb8A" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T11:54:19.238-0500" changeDescription="Tarea con toda la documentacion y relaciones necesarias" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La obtencion de cambios es necesaria con el fin de tener de mejor manera la parte de los requisitos de la arquitectura&#xD;
+    de software, esto con el fin de evitar errores futuros en la aplicacion o proyecto.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_i-wPoPmKEe2VUpbnunlhWA" name="Analizar la informacion" guid="_i-wPoPmKEe2VUpbnunlhWA"/>
+  <sections xmi:id="_knGGcPmKEe2VUpbnunlhWA" name="Aceptar el feedback" guid="_knGGcPmKEe2VUpbnunlhWA"/>
+  <sections xmi:id="_lZxgkPmKEe2VUpbnunlhWA" name="Realizar cambios" guid="_lZxgkPmKEe2VUpbnunlhWA"/>
+  <purpose>El proposito de esta tarea es obtener un feedback sobre la informacion de los requisitos funcionales</purpose>
+</org.eclipse.epf.uma:TaskDescription>

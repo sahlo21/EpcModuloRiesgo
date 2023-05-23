@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Or4yclLgbLsOu0a9mEFVbw" name="new_artifact,_xQ4cAPmLEe2VUpbnunlhWA" guid="-Or4yclLgbLsOu0a9mEFVbw" authors="Julian Callejas, Kevin Sanchez, Andres Garcia" changeDate="2023-05-23T12:04:41.527-0500" changeDescription="Documentacion realizada" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    El codigo que se tiene es sobre el BackEnd y FrontEnde del proyecto, sin embargo, este no es un compliado en exe, se&#xD;
+    mantiene en el lenguaje de programacion que se uso.&#xD;
+&lt;/p></mainDescription>
+  <purpose>El proposito de este entregable es tener un registro del codigo que se realizo para el funcionamiento de la aplicacion</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

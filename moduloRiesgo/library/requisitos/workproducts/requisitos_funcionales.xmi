@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7DqnumSwz_h-DMCRoLo6Hw" name="new_artifact,_1DFUkPmGEe2VUpbnunlhWA" guid="-7DqnumSwz_h-DMCRoLo6Hw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T11:29:41.403-0500" changeDescription="Documentacion del artefacto completa" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    Los requisitos funcionales se encargan de mantener las funciones del sistema de software claro, de manera que no se&#xD;
+    generen dudas o problemas a la hora de realizar los procesos de programacion.&#xD;
+&lt;/p></mainDescription>
+  <purpose>El proposito de los requisitos es tener las funciones claras.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

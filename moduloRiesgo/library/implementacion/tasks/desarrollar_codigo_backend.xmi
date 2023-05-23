@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b2JYxLpmw1KXmIdJM6N3Aw" name=",_L8zsEPmMEe2VUpbnunlhWA" guid="-b2JYxLpmw1KXmIdJM6N3Aw" authors="Julian Callejas, Kevin Sanchez, Andres Garcia" changeDate="2023-05-23T12:16:31.800-0500" changeDescription="Version documentada y relacionada" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    El proposito de la creacion del codigo se basa en que se tenga una aplicacion funcional, con este se pueden empezar a&#xD;
+    realizar pruebas y demas procesos&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_mahEgPmNEe2VUpbnunlhWA" name="Analziar el documento" guid="_mahEgPmNEe2VUpbnunlhWA"/>
+  <sections xmi:id="_n1XR4PmNEe2VUpbnunlhWA" name="Empezar a desarrollar el codigo" guid="_n1XR4PmNEe2VUpbnunlhWA"/>
+  <purpose>El proposito de esta tarea es tener un codigo backend funcional.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

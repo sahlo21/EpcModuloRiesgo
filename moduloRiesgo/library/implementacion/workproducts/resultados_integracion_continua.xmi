@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Jt3YhFdthp_5a5t-Lqt3WA" name="new_artifact,_nVkFkPmPEe2VUpbnunlhWA" guid="-Jt3YhFdthp_5a5t-Lqt3WA" authors="Julian Callejas, Andres Garcia, Kevin Sanche" changeDate="2023-05-23T12:31:57.327-0500" changeDescription="Documentos y relaciones creados" version="Version final">
+  <purpose>El proposito de la integracion continua es integrar los cambios.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

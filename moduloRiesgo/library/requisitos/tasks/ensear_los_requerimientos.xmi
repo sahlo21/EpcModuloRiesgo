@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-g5I56Trwh8-BV27M_AVVmw" name=",_RnJgEPmJEe2VUpbnunlhWA" guid="-g5I56Trwh8-BV27M_AVVmw" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T11:48:15.936-0500" changeDescription="Version con toda la documentacion y relaciones de la tarea" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    Al realizar una charla directa con los interesados en el proyecto se pueden entender de mejor manera los requerimientos&#xD;
+    que se tienen, y de esta manera realizar un arquitectura de requisitos mas impecable.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_yOSKUPmJEe2VUpbnunlhWA" name="Asistir a la reunion" guid="_yOSKUPmJEe2VUpbnunlhWA"/>
+  <sections xmi:id="_zvooUPmJEe2VUpbnunlhWA" name="Enseñar los requisitos" guid="_zvooUPmJEe2VUpbnunlhWA"/>
+  <sections xmi:id="_0et74PmJEe2VUpbnunlhWA" name="Obtener el feedback del trabajo" guid="_0et74PmJEe2VUpbnunlhWA"/>
+  <purpose>El porposito de esta tarea es analizar los requisitos con los stakeholders</purpose>
+</org.eclipse.epf.uma:TaskDescription>

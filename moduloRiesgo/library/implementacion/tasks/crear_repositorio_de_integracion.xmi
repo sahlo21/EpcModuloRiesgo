@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_JGyIgtfcRIHoYE52Amu7A" name=",_JjymQPmMEe2VUpbnunlhWA" guid="-_JGyIgtfcRIHoYE52Amu7A" authors="Julian Callejas, Kevin Sanchez, Andres Garcia" changeDate="2023-05-23T12:12:03.342-0500" changeDescription="Version final del documento, se tiene la documentacion y relaciones" version="Version final">
+  <mainDescription>Todos los cambios que se realicen dentro del repositorio se veran documentado de manera automatica, es decir, se quedara un&#xD;
+registro e historial de los cambios realizados por cada usuario.</mainDescription>
+  <sections xmi:id="_H8TOkPmNEe2VUpbnunlhWA" name="Se analiza en que aplicacion crear el repositorio" guid="_H8TOkPmNEe2VUpbnunlhWA"/>
+  <sections xmi:id="_KHeFoPmNEe2VUpbnunlhWA" name="Se elige la aplicacion" guid="_KHeFoPmNEe2VUpbnunlhWA"/>
+  <sections xmi:id="_LSj_wPmNEe2VUpbnunlhWA" name="Se realiza el repositorio" guid="_LSj_wPmNEe2VUpbnunlhWA"/>
+  <purpose>El proposito del repositorio es tener de manera ordenada los cambios.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

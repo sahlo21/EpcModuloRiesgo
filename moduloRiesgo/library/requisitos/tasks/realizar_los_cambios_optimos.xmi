@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zpEFwZO5Y13cq69DDPAmFQ" name=",_9dh74PmHEe2VUpbnunlhWA" guid="-zpEFwZO5Y13cq69DDPAmFQ" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T11:39:11.568-0500" changeDescription="Version final donde se tiene la documentacion y relaciones de la tarea completa" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    Luego de obtener los cambios se empieza a realizar los cambios que se dieron en la reunion con los stakeholders, en&#xD;
+    estos, se evidencia una mejor con respecto a los anteriores y mantener una escencia principal del proyecto.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_DVjCsPmJEe2VUpbnunlhWA" name="Obtener los posibles cambios" guid="_DVjCsPmJEe2VUpbnunlhWA"/>
+  <sections xmi:id="_FQaz8PmJEe2VUpbnunlhWA" name="Clasificar los posibles cambios" guid="_FQaz8PmJEe2VUpbnunlhWA"/>
+  <sections xmi:id="_GG360PmJEe2VUpbnunlhWA" name="Implementar los cambios necesarios" guid="_GG360PmJEe2VUpbnunlhWA"/>
+  <purpose>El proposito principal de realizar los cambios es tener los requisitos funcionales de la mejor forma</purpose>
+</org.eclipse.epf.uma:TaskDescription>

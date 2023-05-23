@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jYsTaRadqL-L6lSwuLaInQ" name=",_AkDuUPmQEe2VUpbnunlhWA" guid="-jYsTaRadqL-L6lSwuLaInQ" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T12:35:13.195-0500" changeDescription="Tarea documentada y relacionada" version="Version final ">
+  <sections xmi:id="_PUfcwPmQEe2VUpbnunlhWA" name="Elegir el servidor" guid="_PUfcwPmQEe2VUpbnunlhWA"/>
+  <sections xmi:id="_QK0AwPmQEe2VUpbnunlhWA" name="Crear el servidor" guid="_QK0AwPmQEe2VUpbnunlhWA"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-s8cEjatEhWTE1exJisXjLA" name="desarrollar_los_requisitos,_NZoxEPl5Ee2VUpbnunlhWA" guid="-s8cEjatEhWTE1exJisXjLA" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T11:16:12.421-0500" changeDescription="Documentacion de los requisitos y relaciones creadas." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La tarea de desarrollar los requisitos se basa en la creacion y cambio de la documentacion que se tiene con&#xD;
+    anterioridas, es decir, se busca modificar los requisitos de usuario de los stakeholders.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_gH5wkPmFEe2VUpbnunlhWA" name="Obtener los requisitos en lenguaje natural" guid="_gH5wkPmFEe2VUpbnunlhWA"/>
+  <sections xmi:id="_hcHKcPmFEe2VUpbnunlhWA" name="Desarrollar los requisitos en lenguaje tecnico" guid="_hcHKcPmFEe2VUpbnunlhWA"/>
+  <purpose>El proposito de este metodo es realizar el cambio de lenguaje natural a lenguaje tecnico.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OuhTwR8-ft0NTdFSeGzV0Q" name=",_XVNuwPmMEe2VUpbnunlhWA" guid="-OuhTwR8-ft0NTdFSeGzV0Q" authors="Julian Callejas, Kevin Sanchez, Andres Garcia" changeDate="2023-05-23T12:14:18.246-0500" changeDescription="Se tiene toda la informacion de la tarea" version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    Se notifica a las demas personas, con el fin de empezar los demas procesos como lo son las pruebas y realizar una&#xD;
+    revison rapida del codigo para evitar errores a futuro.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_TihY4PmPEe2VUpbnunlhWA" name="Seleccionar el codigo documentado" guid="_TihY4PmPEe2VUpbnunlhWA"/>
+  <sections xmi:id="_VG9nIPmPEe2VUpbnunlhWA" name="Notificar sobre el codigo documentado" guid="_VG9nIPmPEe2VUpbnunlhWA"/>
+  <purpose>El proposito de esta enviar notificaciones sobre las novedades que se tienen.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

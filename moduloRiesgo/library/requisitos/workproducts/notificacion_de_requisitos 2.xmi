@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jK3gWRYld-mj9z1dJYDdAg" name="new_artifact,_0BH9wPmFEe2VUpbnunlhWA" guid="-jK3gWRYld-mj9z1dJYDdAg" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T11:21:41.284-0500" changeDescription="Version final del documento donde esta toda la informacion." version="Version final">
+  <mainDescription>Las notificaciones de riesgo tiene como funcion dejar en evidencia que momento se realizaron las fechas de los requisitos,&#xD;
+asi mismo el que contiene cada requisito.</mainDescription>
+  <purpose>El proposito de este documento es dejar claro la fecha y momento en el que se dio a conocer los requisitos.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

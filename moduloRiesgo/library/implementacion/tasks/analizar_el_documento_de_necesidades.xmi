@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kl9CzTI3LEcxzK8BwhijfA" name=",_EEnn0PmMEe2VUpbnunlhWA" guid="-kl9CzTI3LEcxzK8BwhijfA" authors="Julian Callejas, Kevin Sanchez, Andres Garcia" changeDate="2023-05-23T12:08:49.773-0500" changeDescription="Tarea documentada y relacionada" version="Version final">
+  <mainDescription>Se analizan los requisitos funcionales con el fin de obtener toda la informacion necesaria y de esta manera se pueda&#xD;
+realizar el proyecto de manera optima y funcional.</mainDescription>
+  <sections xmi:id="_f0MtQPmMEe2VUpbnunlhWA" name="Analizar los requisitos funcionales" guid="_f0MtQPmMEe2VUpbnunlhWA"/>
+  <sections xmi:id="_gtRqUPmMEe2VUpbnunlhWA" name="Realizar un analisis de necesidades de frontend y backend" guid="_gtRqUPmMEe2VUpbnunlhWA"/>
+  <purpose>El proposito de este analisis es obtener la informacion del proyecto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

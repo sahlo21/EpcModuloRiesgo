@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2ZHEW8StOMBXgNBwmT-yEQ" name=",_WA0HoPmMEe2VUpbnunlhWA" guid="-2ZHEW8StOMBXgNBwmT-yEQ" authors="Julian Callejas, Andres Garcia, Kevin Sanchez" changeDate="2023-05-23T12:21:43.533-0500" changeDescription="Tarea documentada y relacionada." version="Version final">
+  <mainDescription>&lt;p>&#xD;
+    La integracion de base de datos de datos se realiza con el fin de obtener un repositorio donde se guarde de manera&#xD;
+    segura la informacion de los clientes o usuarios.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_TO02QPmOEe2VUpbnunlhWA" name="Seleccionar la base de datos" guid="_TO02QPmOEe2VUpbnunlhWA"/>
+  <sections xmi:id="_UFxsYPmOEe2VUpbnunlhWA" name="Diseñar la base de datos" guid="_UFxsYPmOEe2VUpbnunlhWA"/>
+  <sections xmi:id="_U5u44PmOEe2VUpbnunlhWA" name="Integrar la base de datos" guid="_U5u44PmOEe2VUpbnunlhWA"/>
+  <sections xmi:id="_bNEfMPmOEe2VUpbnunlhWA" name="Poblar la base de datos" guid="_bNEfMPmOEe2VUpbnunlhWA"/>
+  <purpose>El proposito principal es tener una base de datos funcional e integrada</purpose>
+</org.eclipse.epf.uma:TaskDescription>
